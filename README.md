@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/GT0096/pdf-diagram-extract/blob/main/LICENSE)
 
 Extract diagram and graph entities from PDFs as structured JSON — **no LLM, pure code**.
-
+---
 **[📖 Documentation](https://gt0096.github.io/pdf-diagram-extract/)**
 
 ## Features
