@@ -13,6 +13,8 @@ Extract diagram and graph entities from PDFs as structured JSON — **no LLM, pu
 - **Vector extraction** — parses native PDF drawing primitives (rectangles, lines, curves) via PyMuPDF
 - **Raster fallback** — renders scanned/image-based pages and uses OpenCV contour detection
 - **Shape classification** — identifies rectangles, circles, diamonds, ellipses, polygons
+- **Native text extraction** — precise assignment of text to shapes using Intersection and Gravity physics
+- **Virtual text nodes** — detects floating text and dynamically generates `text_block` shapes so nothing is lost
 - **Edge detection** — detects lines, arrows, and curves with directionality
 - **Relationship resolution** — links edges to shapes via spatial proximity
 - **Chart detection** — heuristically identifies bar, pie, line, and scatter charts

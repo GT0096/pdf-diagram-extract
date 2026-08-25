@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pdf-diagram-extract"
-version = "0.2.0"
+version = "1.0.0"
 description = "Extract geometric entities, charts, and flowcharts from PDFs without OCR or LLMs."
 readme = "README.md"
 license = "MIT"

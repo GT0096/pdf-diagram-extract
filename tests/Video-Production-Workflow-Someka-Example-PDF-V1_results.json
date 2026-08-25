@@ -1,0 +1,3715 @@
+{
+  "source_file": "Video-Production-Workflow-Someka-Example-PDF-V1.pdf",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 0,
+      "width": 841.92,
+      "height": 595.32,
+      "extraction_method": "vector",
+      "diagrams": [
+        {
+          "diagram_type": "org_chart",
+          "shapes": [
+            {
+              "id": "shp_33185086",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 71.85,
+                "y0": 150.32,
+                "x1": 159.6,
+                "y1": 185.56,
+                "width": 87.75,
+                "height": 35.24
+              },
+              "center": {
+                "x": 115.72,
+                "y": 167.94
+              },
+              "vertices": [
+                {
+                  "x": 71.85,
+                  "y": 150.32
+                },
+                {
+                  "x": 159.6,
+                  "y": 150.32
+                },
+                {
+                  "x": 159.6,
+                  "y": 185.56
+                },
+                {
+                  "x": 71.85,
+                  "y": 185.56
+                }
+              ],
+              "area": 3092.33,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Pre-Production"
+            },
+            {
+              "id": "shp_14ab0f88",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 71.85,
+                "y0": 213.61,
+                "x1": 159.6,
+                "y1": 248.76,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 115.72,
+                "y": 231.18
+              },
+              "vertices": [
+                {
+                  "x": 71.85,
+                  "y": 213.61
+                },
+                {
+                  "x": 159.6,
+                  "y": 213.61
+                },
+                {
+                  "x": 159.6,
+                  "y": 248.76
+                },
+                {
+                  "x": 71.85,
+                  "y": 248.76
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Define Objectives and Target Audience"
+            },
+            {
+              "id": "shp_2ab88d16",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 71.85,
+                "y0": 339.8,
+                "x1": 159.6,
+                "y1": 374.95,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 115.72,
+                "y": 357.37
+              },
+              "vertices": [
+                {
+                  "x": 71.85,
+                  "y": 339.8
+                },
+                {
+                  "x": 159.6,
+                  "y": 339.8
+                },
+                {
+                  "x": 159.6,
+                  "y": 374.95
+                },
+                {
+                  "x": 71.85,
+                  "y": 374.95
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Create Storyboard"
+            },
+            {
+              "id": "shp_e73fc67c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 71.85,
+                "y0": 276.8,
+                "x1": 159.6,
+                "y1": 311.74,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 115.72,
+                "y": 294.27
+              },
+              "vertices": [
+                {
+                  "x": 71.85,
+                  "y": 276.8
+                },
+                {
+                  "x": 159.6,
+                  "y": 276.8
+                },
+                {
+                  "x": 159.6,
+                  "y": 311.74
+                },
+                {
+                  "x": 71.85,
+                  "y": 311.74
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Develop Concept and Script"
+            },
+            {
+              "id": "shp_22680c51",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 108.07,
+                "y0": 101.6,
+                "x1": 123.38,
+                "y1": 109.43,
+                "width": 15.31,
+                "height": 7.82
+              },
+              "center": {
+                "x": 115.73,
+                "y": 105.51
+              },
+              "vertices": [
+                {
+                  "x": 108.07,
+                  "y": 101.6
+                },
+                {
+                  "x": 123.38,
+                  "y": 101.6
+                },
+                {
+                  "x": 123.38,
+                  "y": 109.43
+                },
+                {
+                  "x": 108.07,
+                  "y": 109.43
+                }
+              ],
+              "area": 119.8,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "Start"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_eaff8628",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 146.77
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_22680c51",
+              "target_shape_id": "shp_33185086",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_77c57a62",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 146.77
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_33185086",
+              "target_shape_id": "shp_22680c51",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_2a22cacd",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 185.56
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 210.06
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_33185086",
+              "target_shape_id": "shp_14ab0f88",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_88f917b7",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 210.06
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 185.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_14ab0f88",
+              "target_shape_id": "shp_33185086",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_a0356ed1",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 248.76
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 273.26
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_14ab0f88",
+              "target_shape_id": "shp_e73fc67c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_9bd7dcc9",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 273.26
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 248.76
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_e73fc67c",
+              "target_shape_id": "shp_14ab0f88",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_532c2cd9",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 336.24
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_e73fc67c",
+              "target_shape_id": "shp_2ab88d16",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_ba900b2d",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 336.24
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_2ab88d16",
+              "target_shape_id": "shp_e73fc67c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_10a65cc2",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 146.77
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_22680c51",
+              "target_shape_id": "shp_33185086",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_133c6573",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 146.77
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_33185086",
+              "target_shape_id": "shp_22680c51",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_6516786c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 185.56
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 210.06
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_33185086",
+              "target_shape_id": "shp_14ab0f88",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_6121f0b3",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 210.06
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 185.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_14ab0f88",
+              "target_shape_id": "shp_33185086",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_120dbcde",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 248.76
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 273.26
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_14ab0f88",
+              "target_shape_id": "shp_e73fc67c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_680276cc",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 273.26
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 248.76
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_e73fc67c",
+              "target_shape_id": "shp_14ab0f88",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f007cabc",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.91,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 115.91,
+                "y": 336.24
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_e73fc67c",
+              "target_shape_id": "shp_2ab88d16",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_15a2874e",
+              "edge_type": "line",
+              "start_point": {
+                "x": 115.56,
+                "y": 336.24
+              },
+              "end_point": {
+                "x": 115.56,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_2ab88d16",
+              "target_shape_id": "shp_e73fc67c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "org_chart",
+          "shapes": [
+            {
+              "id": "shp_fa419aa7",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 197.79,
+                "y0": 150.32,
+                "x1": 285.54,
+                "y1": 185.56,
+                "width": 87.75,
+                "height": 35.24
+              },
+              "center": {
+                "x": 241.67,
+                "y": 167.94
+              },
+              "vertices": [
+                {
+                  "x": 197.79,
+                  "y": 150.32
+                },
+                {
+                  "x": 285.54,
+                  "y": 150.32
+                },
+                {
+                  "x": 285.54,
+                  "y": 185.56
+                },
+                {
+                  "x": 197.79,
+                  "y": 185.56
+                }
+              ],
+              "area": 3092.33,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Set Up Shooting Location"
+            },
+            {
+              "id": "shp_c14fbd5c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 197.79,
+                "y0": 339.8,
+                "x1": 285.54,
+                "y1": 374.95,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 241.67,
+                "y": 357.37
+              },
+              "vertices": [
+                {
+                  "x": 197.79,
+                  "y": 339.8
+                },
+                {
+                  "x": 285.54,
+                  "y": 339.8
+                },
+                {
+                  "x": 285.54,
+                  "y": 374.95
+                },
+                {
+                  "x": 197.79,
+                  "y": 374.95
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Plan Production Schedule\nand Logistics"
+            },
+            {
+              "id": "shp_ba90308f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 197.79,
+                "y0": 213.61,
+                "x1": 285.54,
+                "y1": 248.76,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 241.67,
+                "y": 231.18
+              },
+              "vertices": [
+                {
+                  "x": 197.79,
+                  "y": 213.61
+                },
+                {
+                  "x": 285.54,
+                  "y": 213.61
+                },
+                {
+                  "x": 285.54,
+                  "y": 248.76
+                },
+                {
+                  "x": 197.79,
+                  "y": 248.76
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Production"
+            },
+            {
+              "id": "shp_70fa5cd3",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 197.79,
+                "y0": 276.8,
+                "x1": 285.54,
+                "y1": 311.74,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 241.67,
+                "y": 294.27
+              },
+              "vertices": [
+                {
+                  "x": 197.79,
+                  "y": 276.8
+                },
+                {
+                  "x": 285.54,
+                  "y": 276.8
+                },
+                {
+                  "x": 285.54,
+                  "y": 311.74
+                },
+                {
+                  "x": 197.79,
+                  "y": 311.74
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Organize Equipment and Resources"
+            },
+            {
+              "id": "shp_21ab3203",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 197.79,
+                "y0": 87.33,
+                "x1": 285.54,
+                "y1": 122.27,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 241.67,
+                "y": 104.8
+              },
+              "vertices": [
+                {
+                  "x": 197.79,
+                  "y": 87.33
+                },
+                {
+                  "x": 285.54,
+                  "y": 87.33
+                },
+                {
+                  "x": 285.54,
+                  "y": 122.27
+                },
+                {
+                  "x": 197.79,
+                  "y": 122.27
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Capture Footage"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_bb5ec5da",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 339.79
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 315.29
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_c14fbd5c",
+              "target_shape_id": "shp_70fa5cd3",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_1a181173",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 315.29
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 339.79
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_70fa5cd3",
+              "target_shape_id": "shp_c14fbd5c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_7da1c8ca",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 252.31
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_70fa5cd3",
+              "target_shape_id": "shp_ba90308f",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_d02ad53b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 252.31
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 276.81
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ba90308f",
+              "target_shape_id": "shp_70fa5cd3",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_fe120b0b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 213.61
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 189.11
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ba90308f",
+              "target_shape_id": "shp_fa419aa7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_a943e9c6",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 189.11
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 213.61
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fa419aa7",
+              "target_shape_id": "shp_ba90308f",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_54383e1c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 150.32
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 125.82
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fa419aa7",
+              "target_shape_id": "shp_21ab3203",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_6ed39b25",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 125.82
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 150.32
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_21ab3203",
+              "target_shape_id": "shp_fa419aa7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_5fb260b0",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 339.79
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 315.29
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_c14fbd5c",
+              "target_shape_id": "shp_70fa5cd3",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_75456fa9",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 315.29
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 339.79
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_70fa5cd3",
+              "target_shape_id": "shp_c14fbd5c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_7e545744",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 252.31
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_70fa5cd3",
+              "target_shape_id": "shp_ba90308f",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_502ec26d",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 252.31
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 276.81
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ba90308f",
+              "target_shape_id": "shp_70fa5cd3",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_1be9da18",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 213.61
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 189.11
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ba90308f",
+              "target_shape_id": "shp_fa419aa7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_defeb589",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 189.11
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 213.61
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fa419aa7",
+              "target_shape_id": "shp_ba90308f",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_9191ffb8",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.77,
+                "y": 150.32
+              },
+              "end_point": {
+                "x": 241.77,
+                "y": 125.82
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fa419aa7",
+              "target_shape_id": "shp_21ab3203",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_7fd132ee",
+              "edge_type": "line",
+              "start_point": {
+                "x": 241.41,
+                "y": 125.82
+              },
+              "end_point": {
+                "x": 241.41,
+                "y": 150.32
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_21ab3203",
+              "target_shape_id": "shp_fa419aa7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "org_chart",
+          "shapes": [
+            {
+              "id": "shp_8e314d29",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 449.55,
+                "y0": 150.32,
+                "x1": 537.3,
+                "y1": 185.56,
+                "width": 87.75,
+                "height": 35.24
+              },
+              "center": {
+                "x": 493.43,
+                "y": 167.94
+              },
+              "vertices": [
+                {
+                  "x": 449.55,
+                  "y": 150.32
+                },
+                {
+                  "x": 537.3,
+                  "y": 150.32
+                },
+                {
+                  "x": 537.3,
+                  "y": 185.56
+                },
+                {
+                  "x": 449.55,
+                  "y": 185.56
+                }
+              ],
+              "area": 3092.33,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Incorporate Graphics and Animations"
+            },
+            {
+              "id": "shp_1e4d8191",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 449.55,
+                "y0": 339.8,
+                "x1": 537.3,
+                "y1": 374.95,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 493.43,
+                "y": 357.37
+              },
+              "vertices": [
+                {
+                  "x": 449.55,
+                  "y": 339.8
+                },
+                {
+                  "x": 537.3,
+                  "y": 339.8
+                },
+                {
+                  "x": 537.3,
+                  "y": 374.95
+                },
+                {
+                  "x": 449.55,
+                  "y": 374.95
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Edit Video"
+            },
+            {
+              "id": "shp_978bb685",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 449.55,
+                "y0": 213.61,
+                "x1": 537.3,
+                "y1": 248.76,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 493.43,
+                "y": 231.18
+              },
+              "vertices": [
+                {
+                  "x": 449.55,
+                  "y": 213.61
+                },
+                {
+                  "x": 537.3,
+                  "y": 213.61
+                },
+                {
+                  "x": 537.3,
+                  "y": 248.76
+                },
+                {
+                  "x": 449.55,
+                  "y": 248.76
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Enhance Audio"
+            },
+            {
+              "id": "shp_bd99872c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 449.55,
+                "y0": 276.8,
+                "x1": 537.3,
+                "y1": 311.74,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 493.43,
+                "y": 294.27
+              },
+              "vertices": [
+                {
+                  "x": 449.55,
+                  "y": 276.8
+                },
+                {
+                  "x": 537.3,
+                  "y": 276.8
+                },
+                {
+                  "x": 537.3,
+                  "y": 311.74
+                },
+                {
+                  "x": 449.55,
+                  "y": 311.74
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Add Transitions, Effects, and Titles"
+            },
+            {
+              "id": "shp_63e0dc6d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 449.55,
+                "y0": 87.33,
+                "x1": 537.3,
+                "y1": 122.27,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 493.43,
+                "y": 104.8
+              },
+              "vertices": [
+                {
+                  "x": 449.55,
+                  "y": 87.33
+                },
+                {
+                  "x": 537.3,
+                  "y": 87.33
+                },
+                {
+                  "x": 537.3,
+                  "y": 122.27
+                },
+                {
+                  "x": 449.55,
+                  "y": 122.27
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Color Correction and Grading"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_e42879cc",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 339.79
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 315.29
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_1e4d8191",
+              "target_shape_id": "shp_bd99872c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f29dbd45",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 315.29
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 339.79
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_bd99872c",
+              "target_shape_id": "shp_1e4d8191",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_27e18548",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 252.31
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_bd99872c",
+              "target_shape_id": "shp_978bb685",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_34ea0166",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 252.31
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 276.81
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_978bb685",
+              "target_shape_id": "shp_bd99872c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_57e8c747",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 213.61
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 189.11
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_978bb685",
+              "target_shape_id": "shp_8e314d29",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_000ac23c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 189.11
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 213.61
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_8e314d29",
+              "target_shape_id": "shp_978bb685",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_19e32335",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 150.32
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 125.82
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_8e314d29",
+              "target_shape_id": "shp_63e0dc6d",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f6fbf8d2",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 125.82
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 150.32
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_63e0dc6d",
+              "target_shape_id": "shp_8e314d29",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f72950f2",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 339.79
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 315.29
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_1e4d8191",
+              "target_shape_id": "shp_bd99872c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f22a5f53",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 315.29
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 339.79
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_bd99872c",
+              "target_shape_id": "shp_1e4d8191",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_8e086835",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 252.31
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_bd99872c",
+              "target_shape_id": "shp_978bb685",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_af94f805",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 252.31
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 276.81
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_978bb685",
+              "target_shape_id": "shp_bd99872c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_8b81193f",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 213.61
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 189.11
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_978bb685",
+              "target_shape_id": "shp_8e314d29",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f8ce5961",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 189.11
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 213.61
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_8e314d29",
+              "target_shape_id": "shp_978bb685",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_eca3975b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.62,
+                "y": 150.32
+              },
+              "end_point": {
+                "x": 493.62,
+                "y": 125.82
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_8e314d29",
+              "target_shape_id": "shp_63e0dc6d",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_777077bc",
+              "edge_type": "line",
+              "start_point": {
+                "x": 493.26,
+                "y": 125.82
+              },
+              "end_point": {
+                "x": 493.26,
+                "y": 150.32
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_63e0dc6d",
+              "target_shape_id": "shp_8e314d29",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "org_chart",
+          "shapes": [
+            {
+              "id": "shp_ecf91fd2",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 575.5,
+                "y0": 150.32,
+                "x1": 663.25,
+                "y1": 185.56,
+                "width": 87.75,
+                "height": 35.24
+              },
+              "center": {
+                "x": 619.38,
+                "y": 167.94
+              },
+              "vertices": [
+                {
+                  "x": 575.5,
+                  "y": 150.32
+                },
+                {
+                  "x": 663.25,
+                  "y": 150.32
+                },
+                {
+                  "x": 663.25,
+                  "y": 185.56
+                },
+                {
+                  "x": 575.5,
+                  "y": 185.56
+                }
+              ],
+              "area": 3092.33,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Finalize and Export Video"
+            },
+            {
+              "id": "shp_0d858718",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 575.5,
+                "y0": 213.61,
+                "x1": 663.25,
+                "y1": 248.76,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 619.38,
+                "y": 231.18
+              },
+              "vertices": [
+                {
+                  "x": 575.5,
+                  "y": 213.61
+                },
+                {
+                  "x": 663.25,
+                  "y": 213.61
+                },
+                {
+                  "x": 663.25,
+                  "y": 248.76
+                },
+                {
+                  "x": 575.5,
+                  "y": 248.76
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Distribution"
+            },
+            {
+              "id": "shp_ca0a70dc",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 575.5,
+                "y0": 339.8,
+                "x1": 663.25,
+                "y1": 374.95,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 619.38,
+                "y": 357.37
+              },
+              "vertices": [
+                {
+                  "x": 575.5,
+                  "y": 339.8
+                },
+                {
+                  "x": 663.25,
+                  "y": 339.8
+                },
+                {
+                  "x": 663.25,
+                  "y": 374.95
+                },
+                {
+                  "x": 575.5,
+                  "y": 374.95
+                }
+              ],
+              "area": 3084.87,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Promote and Share Video"
+            },
+            {
+              "id": "shp_f22525cf",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 575.5,
+                "y0": 87.33,
+                "x1": 663.25,
+                "y1": 122.27,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 619.38,
+                "y": 104.8
+              },
+              "vertices": [
+                {
+                  "x": 575.5,
+                  "y": 87.33
+                },
+                {
+                  "x": 663.25,
+                  "y": 87.33
+                },
+                {
+                  "x": 663.25,
+                  "y": 122.27
+                },
+                {
+                  "x": 575.5,
+                  "y": 122.27
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Review and Revise"
+            },
+            {
+              "id": "shp_7eeca394",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 575.5,
+                "y0": 276.8,
+                "x1": 663.25,
+                "y1": 311.74,
+                "width": 87.75,
+                "height": 34.94
+              },
+              "center": {
+                "x": 619.38,
+                "y": 294.27
+              },
+              "vertices": [
+                {
+                  "x": 575.5,
+                  "y": 276.8
+                },
+                {
+                  "x": 663.25,
+                  "y": 276.8
+                },
+                {
+                  "x": 663.25,
+                  "y": 311.74
+                },
+                {
+                  "x": 575.5,
+                  "y": 311.74
+                }
+              ],
+              "area": 3065.74,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Upload to Video Hosting Platforms"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_33480c16",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 146.77
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_f22525cf",
+              "target_shape_id": "shp_ecf91fd2",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_d8b85d0f",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 146.77
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ecf91fd2",
+              "target_shape_id": "shp_f22525cf",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_23925e62",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 185.56
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 210.06
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ecf91fd2",
+              "target_shape_id": "shp_0d858718",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_87274935",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 210.06
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 185.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_0d858718",
+              "target_shape_id": "shp_ecf91fd2",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_445ce825",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 248.76
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 273.26
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_0d858718",
+              "target_shape_id": "shp_7eeca394",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_17930871",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 273.26
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 248.76
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_7eeca394",
+              "target_shape_id": "shp_0d858718",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_c5db547a",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 336.24
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_7eeca394",
+              "target_shape_id": "shp_ca0a70dc",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_d5a3eb93",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 336.24
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ca0a70dc",
+              "target_shape_id": "shp_7eeca394",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_ce85d936",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 146.77
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_f22525cf",
+              "target_shape_id": "shp_ecf91fd2",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f95a7cae",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 146.77
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ecf91fd2",
+              "target_shape_id": "shp_f22525cf",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_bc091b58",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 185.56
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 210.06
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ecf91fd2",
+              "target_shape_id": "shp_0d858718",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_b31a23ec",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 210.06
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 185.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_0d858718",
+              "target_shape_id": "shp_ecf91fd2",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_705f142c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 248.76
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 273.26
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_0d858718",
+              "target_shape_id": "shp_7eeca394",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f1841717",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 273.26
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 248.76
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_7eeca394",
+              "target_shape_id": "shp_0d858718",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_a2bec3e9",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.48,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 619.48,
+                "y": 336.24
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_7eeca394",
+              "target_shape_id": "shp_ca0a70dc",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_df599a12",
+              "edge_type": "line",
+              "start_point": {
+                "x": 619.12,
+                "y": 336.24
+              },
+              "end_point": {
+                "x": 619.12,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_ca0a70dc",
+              "target_shape_id": "shp_7eeca394",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "org_chart",
+          "shapes": [
+            {
+              "id": "shp_fc37b47a",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 323.7,
+                "y0": 150.32,
+                "x1": 411.4,
+                "y1": 185.56,
+                "width": 87.7,
+                "height": 35.24
+              },
+              "center": {
+                "x": 367.55,
+                "y": 167.94
+              },
+              "vertices": [
+                {
+                  "x": 323.7,
+                  "y": 150.32
+                },
+                {
+                  "x": 411.4,
+                  "y": 150.32
+                },
+                {
+                  "x": 411.4,
+                  "y": 185.56
+                },
+                {
+                  "x": 323.7,
+                  "y": 185.56
+                }
+              ],
+              "area": 3090.39,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Gather B-Roll and Additional Shots"
+            },
+            {
+              "id": "shp_a5d3ada9",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 323.7,
+                "y0": 213.61,
+                "x1": 411.4,
+                "y1": 248.76,
+                "width": 87.7,
+                "height": 35.15
+              },
+              "center": {
+                "x": 367.55,
+                "y": 231.18
+              },
+              "vertices": [
+                {
+                  "x": 323.7,
+                  "y": 213.61
+                },
+                {
+                  "x": 411.4,
+                  "y": 213.61
+                },
+                {
+                  "x": 411.4,
+                  "y": 248.76
+                },
+                {
+                  "x": 323.7,
+                  "y": 248.76
+                }
+              ],
+              "area": 3082.93,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Wrap Up Production"
+            },
+            {
+              "id": "shp_fa9017c2",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 323.7,
+                "y0": 339.8,
+                "x1": 411.4,
+                "y1": 374.95,
+                "width": 87.7,
+                "height": 35.15
+              },
+              "center": {
+                "x": 367.55,
+                "y": 357.37
+              },
+              "vertices": [
+                {
+                  "x": 323.7,
+                  "y": 339.8
+                },
+                {
+                  "x": 411.4,
+                  "y": 339.8
+                },
+                {
+                  "x": 411.4,
+                  "y": 374.95
+                },
+                {
+                  "x": 323.7,
+                  "y": 374.95
+                }
+              ],
+              "area": 3082.93,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Transfer and Organize Footage"
+            },
+            {
+              "id": "shp_b5e76254",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 323.7,
+                "y0": 87.33,
+                "x1": 411.4,
+                "y1": 122.27,
+                "width": 87.7,
+                "height": 34.94
+              },
+              "center": {
+                "x": 367.55,
+                "y": 104.8
+              },
+              "vertices": [
+                {
+                  "x": 323.7,
+                  "y": 87.33
+                },
+                {
+                  "x": 411.4,
+                  "y": 87.33
+                },
+                {
+                  "x": 411.4,
+                  "y": 122.27
+                },
+                {
+                  "x": 323.7,
+                  "y": 122.27
+                }
+              ],
+              "area": 3063.82,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Record Audio"
+            },
+            {
+              "id": "shp_3ab449b7",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 323.7,
+                "y0": 276.8,
+                "x1": 411.4,
+                "y1": 311.74,
+                "width": 87.7,
+                "height": 34.94
+              },
+              "center": {
+                "x": 367.55,
+                "y": 294.27
+              },
+              "vertices": [
+                {
+                  "x": 323.7,
+                  "y": 276.8
+                },
+                {
+                  "x": 411.4,
+                  "y": 276.8
+                },
+                {
+                  "x": 411.4,
+                  "y": 311.74
+                },
+                {
+                  "x": 323.7,
+                  "y": 311.74
+                }
+              ],
+              "area": 3063.82,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Post-Production"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_e5c9213a",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 146.77
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_b5e76254",
+              "target_shape_id": "shp_fc37b47a",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_1650e31f",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 146.77
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fc37b47a",
+              "target_shape_id": "shp_b5e76254",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_ae966c6c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 185.56
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 210.06
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fc37b47a",
+              "target_shape_id": "shp_a5d3ada9",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_6d29cfe5",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 210.06
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 185.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_a5d3ada9",
+              "target_shape_id": "shp_fc37b47a",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_136f2076",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 248.76
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 273.26
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_a5d3ada9",
+              "target_shape_id": "shp_3ab449b7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_daed16c8",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 273.26
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 248.76
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_3ab449b7",
+              "target_shape_id": "shp_a5d3ada9",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_89a63cc9",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 336.24
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_3ab449b7",
+              "target_shape_id": "shp_fa9017c2",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_8d66ab2b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 336.24
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fa9017c2",
+              "target_shape_id": "shp_3ab449b7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_c4b91a9d",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 146.77
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_b5e76254",
+              "target_shape_id": "shp_fc37b47a",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_65069492",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 146.77
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fc37b47a",
+              "target_shape_id": "shp_b5e76254",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_bbfd3b6b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 185.56
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 210.06
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fc37b47a",
+              "target_shape_id": "shp_a5d3ada9",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_c3c67167",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 210.06
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 185.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_a5d3ada9",
+              "target_shape_id": "shp_fc37b47a",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_74b69f74",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 248.76
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 273.26
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_a5d3ada9",
+              "target_shape_id": "shp_3ab449b7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_424e0f7c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 273.26
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 248.76
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_3ab449b7",
+              "target_shape_id": "shp_a5d3ada9",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_b35c2c4d",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.71,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 367.71,
+                "y": 336.24
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_3ab449b7",
+              "target_shape_id": "shp_fa9017c2",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_eb6c195b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 367.35,
+                "y": 336.24
+              },
+              "end_point": {
+                "x": 367.35,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_fa9017c2",
+              "target_shape_id": "shp_3ab449b7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_f8d7f4c0",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 701.41,
+                "y0": 339.8,
+                "x1": 789.16,
+                "y1": 374.95,
+                "width": 87.75,
+                "height": 35.15
+              },
+              "center": {
+                "x": 745.29,
+                "y": 357.37
+              },
+              "vertices": [
+                {
+                  "x": 701.41,
+                  "y": 339.8
+                },
+                {
+                  "x": 789.16,
+                  "y": 339.8
+                },
+                {
+                  "x": 789.16,
+                  "y": 374.95
+                },
+                {
+                  "x": 701.41,
+                  "y": 374.95
+                }
+              ],
+              "area": 3084.9,
+              "fill_color": [
+                255,
+                153,
+                0
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71,
+              "text": "Analyze Performance and\nCollect Feedback"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_e11a62b8",
+              "edge_type": "line",
+              "start_point": {
+                "x": 745.39,
+                "y": 339.79
+              },
+              "end_point": {
+                "x": 745.39,
+                "y": 315.29
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_f8d7f4c0",
+              "target_shape_id": null,
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_c1c4f6b8",
+              "edge_type": "line",
+              "start_point": {
+                "x": 745.03,
+                "y": 315.29
+              },
+              "end_point": {
+                "x": 745.03,
+                "y": 339.79
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_f8d7f4c0",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_148855b7",
+              "edge_type": "line",
+              "start_point": {
+                "x": 745.39,
+                "y": 339.79
+              },
+              "end_point": {
+                "x": 745.39,
+                "y": 315.29
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_f8d7f4c0",
+              "target_shape_id": null,
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_4e665c1c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 745.03,
+                "y": 315.29
+              },
+              "end_point": {
+                "x": 745.03,
+                "y": 339.79
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_f8d7f4c0",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [],
+          "edges": [
+            {
+              "id": "edg_289ae3bd",
+              "edge_type": "line",
+              "start_point": {
+                "x": 85.96,
+                "y": 87.33
+              },
+              "end_point": {
+                "x": 145.48,
+                "y": 87.33
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_efa53053",
+              "edge_type": "line",
+              "start_point": {
+                "x": 145.48,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 85.96,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_4e26f413",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 145.48,
+                "y": 87.33
+              },
+              "end_point": {
+                "x": 159.6,
+                "y": 104.8
+              },
+              "waypoints": [
+                {
+                  "x": 153.28,
+                  "y": 87.33
+                },
+                {
+                  "x": 159.6,
+                  "y": 95.15
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_90fe0060",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 159.6,
+                "y": 104.8
+              },
+              "end_point": {
+                "x": 145.48,
+                "y": 122.27
+              },
+              "waypoints": [
+                {
+                  "x": 159.6,
+                  "y": 114.45
+                },
+                {
+                  "x": 153.28,
+                  "y": 122.27
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_967405d6",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 85.96,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 71.85,
+                "y": 104.8
+              },
+              "waypoints": [
+                {
+                  "x": 78.17,
+                  "y": 122.27
+                },
+                {
+                  "x": 71.85,
+                  "y": 114.45
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_a507f6c9",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 71.85,
+                "y": 104.8
+              },
+              "end_point": {
+                "x": 85.96,
+                "y": 87.33
+              },
+              "waypoints": [
+                {
+                  "x": 71.85,
+                  "y": 95.15
+                },
+                {
+                  "x": 78.17,
+                  "y": 87.33
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_512252c7",
+              "edge_type": "line",
+              "start_point": {
+                "x": 85.96,
+                "y": 87.33
+              },
+              "end_point": {
+                "x": 145.48,
+                "y": 87.33
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_ad04484e",
+              "edge_type": "line",
+              "start_point": {
+                "x": 145.48,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 85.96,
+                "y": 122.27
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_bcbf0910",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 145.48,
+                "y": 87.33
+              },
+              "end_point": {
+                "x": 159.6,
+                "y": 104.8
+              },
+              "waypoints": [
+                {
+                  "x": 153.28,
+                  "y": 87.33
+                },
+                {
+                  "x": 159.6,
+                  "y": 95.15
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_27330f53",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 159.6,
+                "y": 104.8
+              },
+              "end_point": {
+                "x": 145.48,
+                "y": 122.27
+              },
+              "waypoints": [
+                {
+                  "x": 159.6,
+                  "y": 114.45
+                },
+                {
+                  "x": 153.28,
+                  "y": 122.27
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_6ccac4e5",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 85.96,
+                "y": 122.27
+              },
+              "end_point": {
+                "x": 71.85,
+                "y": 104.8
+              },
+              "waypoints": [
+                {
+                  "x": 78.17,
+                  "y": 122.27
+                },
+                {
+                  "x": 71.85,
+                  "y": 114.45
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_478bade7",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 71.85,
+                "y": 104.8
+              },
+              "end_point": {
+                "x": 85.96,
+                "y": 87.33
+              },
+              "waypoints": [
+                {
+                  "x": 71.85,
+                  "y": 95.15
+                },
+                {
+                  "x": 78.17,
+                  "y": 87.33
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [],
+          "edges": [
+            {
+              "id": "edg_28fccd14",
+              "edge_type": "line",
+              "start_point": {
+                "x": 715.52,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 775.04,
+                "y": 276.81
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_0bed4272",
+              "edge_type": "line",
+              "start_point": {
+                "x": 775.04,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 715.52,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_a5eecfff",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 775.04,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 789.16,
+                "y": 294.28
+              },
+              "waypoints": [
+                {
+                  "x": 782.84,
+                  "y": 276.81
+                },
+                {
+                  "x": 789.16,
+                  "y": 284.63
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_a80c9aca",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 789.16,
+                "y": 294.28
+              },
+              "end_point": {
+                "x": 775.04,
+                "y": 311.74
+              },
+              "waypoints": [
+                {
+                  "x": 789.16,
+                  "y": 303.92
+                },
+                {
+                  "x": 782.84,
+                  "y": 311.74
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_dccf99ad",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 715.52,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 701.41,
+                "y": 294.28
+              },
+              "waypoints": [
+                {
+                  "x": 707.73,
+                  "y": 311.74
+                },
+                {
+                  "x": 701.41,
+                  "y": 303.92
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_1cb1b461",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 701.41,
+                "y": 294.28
+              },
+              "end_point": {
+                "x": 715.52,
+                "y": 276.81
+              },
+              "waypoints": [
+                {
+                  "x": 701.41,
+                  "y": 284.63
+                },
+                {
+                  "x": 707.73,
+                  "y": 276.81
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_490a7584",
+              "edge_type": "line",
+              "start_point": {
+                "x": 715.52,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 775.04,
+                "y": 276.81
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_ee2635a2",
+              "edge_type": "line",
+              "start_point": {
+                "x": 775.04,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 715.52,
+                "y": 311.74
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_0be1f876",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 775.04,
+                "y": 276.81
+              },
+              "end_point": {
+                "x": 789.16,
+                "y": 294.28
+              },
+              "waypoints": [
+                {
+                  "x": 782.84,
+                  "y": 276.81
+                },
+                {
+                  "x": 789.16,
+                  "y": 284.63
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_06766d04",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 789.16,
+                "y": 294.28
+              },
+              "end_point": {
+                "x": 775.04,
+                "y": 311.74
+              },
+              "waypoints": [
+                {
+                  "x": 789.16,
+                  "y": 303.92
+                },
+                {
+                  "x": 782.84,
+                  "y": 311.74
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_d1b37c02",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 715.52,
+                "y": 311.74
+              },
+              "end_point": {
+                "x": 701.41,
+                "y": 294.28
+              },
+              "waypoints": [
+                {
+                  "x": 707.73,
+                  "y": 311.74
+                },
+                {
+                  "x": 701.41,
+                  "y": 303.92
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            },
+            {
+              "id": "edg_44b4b210",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 701.41,
+                "y": 294.28
+              },
+              "end_point": {
+                "x": 715.52,
+                "y": 276.81
+              },
+              "waypoints": [
+                {
+                  "x": 701.41,
+                  "y": 284.63
+                },
+                {
+                  "x": 707.73,
+                  "y": 276.81
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.71
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_695a4844",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 72.72,
+                "y0": 26.07,
+                "x1": 231.48,
+                "y1": 51.57,
+                "width": 158.76,
+                "height": 25.5
+              },
+              "center": {
+                "x": 152.1,
+                "y": 38.82
+              },
+              "vertices": [
+                {
+                  "x": 72.72,
+                  "y": 26.07
+                },
+                {
+                  "x": 231.48,
+                  "y": 26.07
+                },
+                {
+                  "x": 231.48,
+                  "y": 51.57
+                },
+                {
+                  "x": 72.72,
+                  "y": 51.57
+                }
+              ],
+              "area": 4048.31,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "SOMEKA TEMPLATES\nVIDEO PRODUCTION WORKFLOW"
+            },
+            {
+              "id": "shp_f317f65a",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 437.35,
+                "y0": 30.13,
+                "x1": 489.38,
+                "y1": 44.27,
+                "width": 52.03,
+                "height": 14.14
+              },
+              "center": {
+                "x": 463.36,
+                "y": 37.2
+              },
+              "vertices": [
+                {
+                  "x": 437.35,
+                  "y": 30.13
+                },
+                {
+                  "x": 489.38,
+                  "y": 30.13
+                },
+                {
+                  "x": 489.38,
+                  "y": 44.27
+                },
+                {
+                  "x": 437.35,
+                  "y": 44.27
+                }
+              ],
+              "area": 735.9,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "VISIT FLOWCHART MAKER"
+            },
+            {
+              "id": "shp_c443da66",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 739.32,
+                "y0": 291.09,
+                "x1": 751.39,
+                "y1": 298.94,
+                "width": 12.07,
+                "height": 7.85
+              },
+              "center": {
+                "x": 745.36,
+                "y": 295.02
+              },
+              "vertices": [
+                {
+                  "x": 739.32,
+                  "y": 291.09
+                },
+                {
+                  "x": 751.39,
+                  "y": 291.09
+                },
+                {
+                  "x": 751.39,
+                  "y": 298.94
+                },
+                {
+                  "x": 739.32,
+                  "y": 298.94
+                }
+              ],
+              "area": 94.73,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "End"
+            }
+          ],
+          "edges": [],
+          "charts": [],
+          "text_elements": []
+        }
+      ]
+    }
+  ]
+}

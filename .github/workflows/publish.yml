@@ -2,6 +2,8 @@ name: Publish to PyPI
 
 on:
   push:
+    branches:
+      - v1
     tags:
       - "v*"
   workflow_dispatch:

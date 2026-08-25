@@ -91,11 +91,12 @@ def _link_edges_to_shapes(
 def _group_into_diagrams(
     shapes: list[Shape],
     edges: list[Edge],
+    tolerance: float = CONNECTION_TOLERANCE,
 ) -> list[Diagram]:
     """Group shapes and edges into connected-component Diagrams using union-find."""
-    # Build a union-find over shape IDs
-    all_shape_ids = {s.id for s in shapes}
-    parent: dict[str, str] = {sid: sid for sid in all_shape_ids}
+    # Build a union-find over both shape IDs and edge IDs
+    parent: dict[str, str] = {s.id: s.id for s in shapes}
+    parent.update({e.id: e.id for e in edges})
 
     def find(x: str) -> str:
         while parent[x] != x:
@@ -108,48 +109,51 @@ def _group_into_diagrams(
         if ra != rb:
             parent[ra] = rb
 
-    # Union shapes connected by edges
+    # 1. Union edges to their connected shapes
     for edge in edges:
-        if edge.source_shape_id and edge.target_shape_id:
-            if edge.source_shape_id in all_shape_ids and edge.target_shape_id in all_shape_ids:
-                union(edge.source_shape_id, edge.target_shape_id)
+        if edge.source_shape_id and edge.source_shape_id in parent:
+            union(edge.id, edge.source_shape_id)
+        if edge.target_shape_id and edge.target_shape_id in parent:
+            union(edge.id, edge.target_shape_id)
 
-    # Group shapes by their root
-    shape_map = {s.id: s for s in shapes}
+    # 2. Union edges to other edges (to fix fragmented lines/polylines)
+    for i, e1 in enumerate(edges):
+        e1_pts = [e1.start_point, e1.end_point]
+        for e2 in edges[i + 1:]:
+            e2_pts = [e2.start_point, e2.end_point]
+            connected = False
+            for p1 in e1_pts:
+                for p2 in e2_pts:
+                    dist = ((p1.x - p2.x)**2 + (p1.y - p2.y)**2)**0.5
+                    if dist <= tolerance:
+                        union(e1.id, e2.id)
+                        connected = True
+                        break
+                if connected:
+                    break
+
+    # Group all entities by their root
     groups: dict[str, list[str]] = {}
-    for sid in all_shape_ids:
-        root = find(sid)
-        groups.setdefault(root, []).append(sid)
+    for item_id in parent:
+        root = find(item_id)
+        groups.setdefault(root, []).append(item_id)
 
     # Build diagrams from groups
+    shape_map = {s.id: s for s in shapes}
+    edge_map = {e.id: e for e in edges}
+    
     diagrams: list[Diagram] = []
 
     for root, member_ids in groups.items():
-        member_set = set(member_ids)
-        group_shapes = [shape_map[sid] for sid in member_ids]
+        group_shapes = [shape_map[sid] for sid in member_ids if sid in shape_map]
+        group_edges = [edge_map[eid] for eid in member_ids if eid in edge_map]
 
-        # Edges that connect shapes within this group
-        group_edges = [
-            e for e in edges
-            if (e.source_shape_id in member_set or e.target_shape_id in member_set)
-        ]
-
-        diagram = Diagram(
-            shapes=group_shapes,
-            edges=group_edges,
-        )
-        diagrams.append(diagram)
-
-    # Handle orphan edges (not connected to any shape)
-    connected_edge_ids = {e.id for d in diagrams for e in d.edges}
-    orphan_edges = [e for e in edges if e.id not in connected_edge_ids]
-
-    if orphan_edges:
-        # Group orphan edges into a separate diagram
-        diagrams.append(Diagram(edges=orphan_edges))
-
-    # Filter out empty diagrams (shouldn't happen, but defensive)
-    diagrams = [d for d in diagrams if d.shapes or d.edges]
+        if group_shapes or group_edges:
+            diagram = Diagram(
+                shapes=group_shapes,
+                edges=group_edges,
+            )
+            diagrams.append(diagram)
 
     return diagrams
 

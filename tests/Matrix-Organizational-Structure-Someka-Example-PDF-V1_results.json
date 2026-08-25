@@ -1,0 +1,4286 @@
+{
+  "source_file": "Matrix-Organizational-Structure-Someka-Example-PDF-V1.pdf",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 0,
+      "width": 841.92,
+      "height": 595.32,
+      "extraction_method": "vector",
+      "diagrams": [
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_dbdc9988",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 511.18,
+                "x1": 141.08,
+                "y1": 537.46,
+                "width": 116.36,
+                "height": 26.28
+              },
+              "center": {
+                "x": 82.9,
+                "y": 524.32
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 511.18
+                },
+                {
+                  "x": 141.08,
+                  "y": 511.18
+                },
+                {
+                  "x": 141.08,
+                  "y": 537.46
+                },
+                {
+                  "x": 24.72,
+                  "y": 537.46
+                }
+              ],
+              "area": 3057.96,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Sales Personnel-3"
+            },
+            {
+              "id": "shp_eb46f107",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 511.18,
+                "x1": 816.48,
+                "y1": 537.46,
+                "width": 18.24,
+                "height": 26.28
+              },
+              "center": {
+                "x": 807.36,
+                "y": 524.32
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 511.18
+                },
+                {
+                  "x": 816.48,
+                  "y": 511.18
+                },
+                {
+                  "x": 816.48,
+                  "y": 537.46
+                },
+                {
+                  "x": 798.24,
+                  "y": 537.46
+                }
+              ],
+              "area": 479.35,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_b3b2c7c5",
+              "edge_type": "line",
+              "start_point": {
+                "x": 24.3,
+                "y": 22.62
+              },
+              "end_point": {
+                "x": 816.78,
+                "y": 22.62
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            },
+            {
+              "id": "edg_eaad2304",
+              "edge_type": "line",
+              "start_point": {
+                "x": 24.3,
+                "y": 22.62
+              },
+              "end_point": {
+                "x": 24.3,
+                "y": 550.84
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_dbdc9988",
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            },
+            {
+              "id": "edg_54920472",
+              "edge_type": "line",
+              "start_point": {
+                "x": 24.3,
+                "y": 550.0
+              },
+              "end_point": {
+                "x": 816.78,
+                "y": 550.0
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_dbdc9988",
+              "target_shape_id": "shp_eb46f107",
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            },
+            {
+              "id": "edg_44e0434e",
+              "edge_type": "line",
+              "start_point": {
+                "x": 815.94,
+                "y": 22.62
+              },
+              "end_point": {
+                "x": 815.94,
+                "y": 550.84
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_eb46f107",
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_0463a864",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 453.91,
+                "y0": 79.46,
+                "x1": 816.48,
+                "y1": 131.9,
+                "width": 362.57,
+                "height": 52.44
+              },
+              "center": {
+                "x": 635.19,
+                "y": 105.68
+              },
+              "vertices": [
+                {
+                  "x": 453.91,
+                  "y": 79.46
+                },
+                {
+                  "x": 816.48,
+                  "y": 79.46
+                },
+                {
+                  "x": 816.48,
+                  "y": 131.9
+                },
+                {
+                  "x": 453.91,
+                  "y": 131.9
+                }
+              ],
+              "area": 19013.16,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_834f0fab",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 79.46,
+                "x1": 381.53,
+                "y1": 131.9,
+                "width": 356.81,
+                "height": 52.44
+              },
+              "center": {
+                "x": 203.12,
+                "y": 105.68
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 79.46
+                },
+                {
+                  "x": 381.53,
+                  "y": 79.46
+                },
+                {
+                  "x": 381.53,
+                  "y": 131.9
+                },
+                {
+                  "x": 24.72,
+                  "y": 131.9
+                }
+              ],
+              "area": 18711.11,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_4d6263c9",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 367.27,
+                "x1": 472.15,
+                "y1": 419.71,
+                "width": 326.33,
+                "height": 52.44
+              },
+              "center": {
+                "x": 308.99,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 367.27
+                },
+                {
+                  "x": 472.15,
+                  "y": 367.27
+                },
+                {
+                  "x": 472.15,
+                  "y": 419.71
+                },
+                {
+                  "x": 145.82,
+                  "y": 419.71
+                }
+              ],
+              "area": 17112.75,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Production Engineer\nPlanning Engineer\nStock Management"
+            },
+            {
+              "id": "shp_237f9b32",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 458.86,
+                "x1": 472.15,
+                "y1": 511.3,
+                "width": 326.33,
+                "height": 52.44
+              },
+              "center": {
+                "x": 308.99,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 458.86
+                },
+                {
+                  "x": 472.15,
+                  "y": 458.86
+                },
+                {
+                  "x": 472.15,
+                  "y": 511.3
+                },
+                {
+                  "x": 145.82,
+                  "y": 511.3
+                }
+              ],
+              "area": 17112.75,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_3334b313",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 453.91,
+                "y0": 131.78,
+                "x1": 816.48,
+                "y1": 158.06,
+                "width": 362.57,
+                "height": 26.28
+              },
+              "center": {
+                "x": 635.19,
+                "y": 144.92
+              },
+              "vertices": [
+                {
+                  "x": 453.91,
+                  "y": 131.78
+                },
+                {
+                  "x": 816.48,
+                  "y": 131.78
+                },
+                {
+                  "x": 816.48,
+                  "y": 158.06
+                },
+                {
+                  "x": 453.91,
+                  "y": 158.06
+                }
+              ],
+              "area": 9528.34,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_281fda55",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 131.78,
+                "x1": 381.53,
+                "y1": 158.06,
+                "width": 356.81,
+                "height": 26.28
+              },
+              "center": {
+                "x": 203.12,
+                "y": 144.92
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 131.78
+                },
+                {
+                  "x": 381.53,
+                  "y": 131.78
+                },
+                {
+                  "x": 381.53,
+                  "y": 158.06
+                },
+                {
+                  "x": 24.72,
+                  "y": 158.06
+                }
+              ],
+              "area": 9376.97,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_82b2b34f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 419.6,
+                "x1": 538.72,
+                "y1": 445.9,
+                "width": 392.9,
+                "height": 26.3
+              },
+              "center": {
+                "x": 342.27,
+                "y": 432.75
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 419.6
+                },
+                {
+                  "x": 538.72,
+                  "y": 419.6
+                },
+                {
+                  "x": 538.72,
+                  "y": 445.9
+                },
+                {
+                  "x": 145.82,
+                  "y": 445.9
+                }
+              ],
+              "area": 10334.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "R&D Personnel-2"
+            },
+            {
+              "id": "shp_280e51f0",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 511.18,
+                "x1": 538.72,
+                "y1": 537.46,
+                "width": 392.9,
+                "height": 26.28
+              },
+              "center": {
+                "x": 342.27,
+                "y": 524.32
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 511.18
+                },
+                {
+                  "x": 538.72,
+                  "y": 511.18
+                },
+                {
+                  "x": 538.72,
+                  "y": 537.46
+                },
+                {
+                  "x": 145.82,
+                  "y": 537.46
+                }
+              ],
+              "area": 10325.32,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "R&D Personnel-3"
+            },
+            {
+              "id": "shp_9509c1ed",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 109.58,
+                "y0": 184.11,
+                "x1": 254.66,
+                "y1": 236.57,
+                "width": 145.08,
+                "height": 52.46
+              },
+              "center": {
+                "x": 182.12,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 109.58,
+                  "y": 184.11
+                },
+                {
+                  "x": 254.66,
+                  "y": 184.11
+                },
+                {
+                  "x": 254.66,
+                  "y": 236.57
+                },
+                {
+                  "x": 109.58,
+                  "y": 236.57
+                }
+              ],
+              "area": 7611.48,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_337ac696",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 327.05,
+                "y0": 184.11,
+                "x1": 435.89,
+                "y1": 236.57,
+                "width": 108.84,
+                "height": 52.46
+              },
+              "center": {
+                "x": 381.47,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 327.05,
+                  "y": 184.11
+                },
+                {
+                  "x": 435.89,
+                  "y": 184.11
+                },
+                {
+                  "x": 435.89,
+                  "y": 236.57
+                },
+                {
+                  "x": 327.05,
+                  "y": 236.57
+                }
+              ],
+              "area": 5710.18,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_cbb69f7f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 109.58,
+                "y0": 236.45,
+                "x1": 322.98,
+                "y1": 262.73,
+                "width": 213.4,
+                "height": 26.28
+              },
+              "center": {
+                "x": 216.28,
+                "y": 249.59
+              },
+              "vertices": [
+                {
+                  "x": 109.58,
+                  "y": 236.45
+                },
+                {
+                  "x": 322.98,
+                  "y": 236.45
+                },
+                {
+                  "x": 322.98,
+                  "y": 262.73
+                },
+                {
+                  "x": 109.58,
+                  "y": 262.73
+                }
+              ],
+              "area": 5608.11,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Production Manager"
+            },
+            {
+              "id": "shp_5fa17b74",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 562.63,
+                "y0": 184.11,
+                "x1": 635.25,
+                "y1": 236.57,
+                "width": 72.62,
+                "height": 52.46
+              },
+              "center": {
+                "x": 598.94,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 562.63,
+                  "y": 184.11
+                },
+                {
+                  "x": 635.25,
+                  "y": 184.11
+                },
+                {
+                  "x": 635.25,
+                  "y": 236.57
+                },
+                {
+                  "x": 562.63,
+                  "y": 236.57
+                }
+              ],
+              "area": 3810.15,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Olly Shah PR-1"
+            },
+            {
+              "id": "shp_a968accd",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 254.54,
+                "y0": 184.11,
+                "x1": 327.16,
+                "y1": 236.57,
+                "width": 72.62,
+                "height": 52.46
+              },
+              "center": {
+                "x": 290.85,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 254.54,
+                  "y": 184.11
+                },
+                {
+                  "x": 327.16,
+                  "y": 184.11
+                },
+                {
+                  "x": 327.16,
+                  "y": 236.57
+                },
+                {
+                  "x": 254.54,
+                  "y": 236.57
+                }
+              ],
+              "area": 3810.15,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Maddison Bruce"
+            },
+            {
+              "id": "shp_a7d1c019",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 37.08,
+                "y0": 184.11,
+                "x1": 109.7,
+                "y1": 236.57,
+                "width": 72.62,
+                "height": 52.46
+              },
+              "center": {
+                "x": 73.39,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 37.08,
+                  "y": 184.11
+                },
+                {
+                  "x": 109.7,
+                  "y": 184.11
+                },
+                {
+                  "x": 109.7,
+                  "y": 236.57
+                },
+                {
+                  "x": 37.08,
+                  "y": 236.57
+                }
+              ],
+              "area": 3810.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Marcus Wong"
+            },
+            {
+              "id": "shp_8c91e783",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 435.77,
+                "y0": 184.11,
+                "x1": 508.39,
+                "y1": 236.57,
+                "width": 72.62,
+                "height": 52.46
+              },
+              "center": {
+                "x": 472.08,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 435.77,
+                  "y": 184.11
+                },
+                {
+                  "x": 508.39,
+                  "y": 184.11
+                },
+                {
+                  "x": 508.39,
+                  "y": 236.57
+                },
+                {
+                  "x": 435.77,
+                  "y": 236.57
+                }
+              ],
+              "area": 3810.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Olly Shah"
+            },
+            {
+              "id": "shp_34d8938c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 689.5,
+                "y0": 184.11,
+                "x1": 762.1,
+                "y1": 236.57,
+                "width": 72.6,
+                "height": 52.46
+              },
+              "center": {
+                "x": 725.8,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 689.5,
+                  "y": 184.11
+                },
+                {
+                  "x": 762.1,
+                  "y": 184.11
+                },
+                {
+                  "x": 762.1,
+                  "y": 236.57
+                },
+                {
+                  "x": 689.5,
+                  "y": 236.57
+                }
+              ],
+              "area": 3808.88,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Marcus Wong PR-2"
+            },
+            {
+              "id": "shp_5b71e260",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 598.87,
+                "y0": 367.27,
+                "x1": 671.49,
+                "y1": 419.71,
+                "width": 72.62,
+                "height": 52.44
+              },
+              "center": {
+                "x": 635.18,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 598.87,
+                  "y": 367.27
+                },
+                {
+                  "x": 671.49,
+                  "y": 367.27
+                },
+                {
+                  "x": 671.49,
+                  "y": 419.71
+                },
+                {
+                  "x": 598.87,
+                  "y": 419.71
+                }
+              ],
+              "area": 3808.4,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Taya Fuentes PR-1"
+            },
+            {
+              "id": "shp_cc7298fe",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 725.74,
+                "y0": 367.27,
+                "x1": 798.36,
+                "y1": 419.71,
+                "width": 72.62,
+                "height": 52.44
+              },
+              "center": {
+                "x": 762.05,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 725.74,
+                  "y": 367.27
+                },
+                {
+                  "x": 798.36,
+                  "y": 367.27
+                },
+                {
+                  "x": 798.36,
+                  "y": 419.71
+                },
+                {
+                  "x": 725.74,
+                  "y": 419.71
+                }
+              ],
+              "area": 3808.4,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Samara Logan PR-2"
+            },
+            {
+              "id": "shp_db980381",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 598.87,
+                "y0": 458.86,
+                "x1": 671.49,
+                "y1": 511.3,
+                "width": 72.62,
+                "height": 52.44
+              },
+              "center": {
+                "x": 635.18,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 598.87,
+                  "y": 458.86
+                },
+                {
+                  "x": 671.49,
+                  "y": 458.86
+                },
+                {
+                  "x": 671.49,
+                  "y": 511.3
+                },
+                {
+                  "x": 598.87,
+                  "y": 511.3
+                }
+              ],
+              "area": 3808.4,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Jay Wood PR-1"
+            },
+            {
+              "id": "shp_bc71bac5",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 725.74,
+                "y0": 458.86,
+                "x1": 798.36,
+                "y1": 511.3,
+                "width": 72.62,
+                "height": 52.44
+              },
+              "center": {
+                "x": 762.05,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 725.74,
+                  "y": 458.86
+                },
+                {
+                  "x": 798.36,
+                  "y": 458.86
+                },
+                {
+                  "x": 798.36,
+                  "y": 511.3
+                },
+                {
+                  "x": 725.74,
+                  "y": 511.3
+                }
+              ],
+              "area": 3808.4,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Tom Ashley PR-2"
+            },
+            {
+              "id": "shp_14691d42",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 73.32,
+                "y0": 367.27,
+                "x1": 145.94,
+                "y1": 419.71,
+                "width": 72.62,
+                "height": 52.44
+              },
+              "center": {
+                "x": 109.63,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 73.32,
+                  "y": 367.27
+                },
+                {
+                  "x": 145.94,
+                  "y": 367.27
+                },
+                {
+                  "x": 145.94,
+                  "y": 419.71
+                },
+                {
+                  "x": 73.32,
+                  "y": 419.71
+                }
+              ],
+              "area": 3808.4,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Oliver Ware"
+            },
+            {
+              "id": "shp_c81227ec",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 73.32,
+                "y0": 458.86,
+                "x1": 145.94,
+                "y1": 511.3,
+                "width": 72.62,
+                "height": 52.44
+              },
+              "center": {
+                "x": 109.63,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 73.32,
+                  "y": 458.86
+                },
+                {
+                  "x": 145.94,
+                  "y": 458.86
+                },
+                {
+                  "x": 145.94,
+                  "y": 511.3
+                },
+                {
+                  "x": 73.32,
+                  "y": 511.3
+                }
+              ],
+              "area": 3808.4,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Henrietta Ortiz"
+            },
+            {
+              "id": "shp_8fb3cdb6",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 381.41,
+                "y0": 79.46,
+                "x1": 454.03,
+                "y1": 156.23,
+                "width": 72.62,
+                "height": 76.77
+              },
+              "center": {
+                "x": 417.72,
+                "y": 117.85
+              },
+              "vertices": [
+                {
+                  "x": 381.41,
+                  "y": 79.46
+                },
+                {
+                  "x": 454.03,
+                  "y": 79.46
+                },
+                {
+                  "x": 454.03,
+                  "y": 156.23
+                },
+                {
+                  "x": 381.41,
+                  "y": 156.23
+                }
+              ],
+              "area": 5575.34,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Ryan Hunter\nGM"
+            },
+            {
+              "id": "shp_073f05df",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 472.03,
+                "y0": 367.27,
+                "x1": 544.63,
+                "y1": 419.71,
+                "width": 72.6,
+                "height": 52.44
+              },
+              "center": {
+                "x": 508.33,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 472.03,
+                  "y": 367.27
+                },
+                {
+                  "x": 544.63,
+                  "y": 367.27
+                },
+                {
+                  "x": 544.63,
+                  "y": 419.71
+                },
+                {
+                  "x": 472.03,
+                  "y": 419.71
+                }
+              ],
+              "area": 3807.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Tom Ashley"
+            },
+            {
+              "id": "shp_4f3657d9",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 472.03,
+                "y0": 458.86,
+                "x1": 544.63,
+                "y1": 511.3,
+                "width": 72.6,
+                "height": 52.44
+              },
+              "center": {
+                "x": 508.33,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 472.03,
+                  "y": 458.86
+                },
+                {
+                  "x": 544.63,
+                  "y": 458.86
+                },
+                {
+                  "x": 544.63,
+                  "y": 511.3
+                },
+                {
+                  "x": 472.03,
+                  "y": 511.3
+                }
+              ],
+              "area": 3807.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Rosalie Flynn"
+            },
+            {
+              "id": "shp_9bf10c9a",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 327.05,
+                "y0": 236.45,
+                "x1": 497.73,
+                "y1": 262.73,
+                "width": 170.68,
+                "height": 26.28
+              },
+              "center": {
+                "x": 412.39,
+                "y": 249.59
+              },
+              "vertices": [
+                {
+                  "x": 327.05,
+                  "y": 236.45
+                },
+                {
+                  "x": 497.73,
+                  "y": 236.45
+                },
+                {
+                  "x": 497.73,
+                  "y": 262.73
+                },
+                {
+                  "x": 327.05,
+                  "y": 262.73
+                }
+              ],
+              "area": 4485.58,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "R&D Manager"
+            },
+            {
+              "id": "shp_f3db6842",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 598.87,
+                "y0": 288.77,
+                "x1": 671.49,
+                "y1": 328.15,
+                "width": 72.62,
+                "height": 39.38
+              },
+              "center": {
+                "x": 635.18,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 598.87,
+                  "y": 288.77
+                },
+                {
+                  "x": 671.49,
+                  "y": 288.77
+                },
+                {
+                  "x": 671.49,
+                  "y": 328.15
+                },
+                {
+                  "x": 598.87,
+                  "y": 328.15
+                }
+              ],
+              "area": 2860.22,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Alivia Day PR-1"
+            },
+            {
+              "id": "shp_73ea09cc",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 725.74,
+                "y0": 288.77,
+                "x1": 798.36,
+                "y1": 328.15,
+                "width": 72.62,
+                "height": 39.38
+              },
+              "center": {
+                "x": 762.05,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 725.74,
+                  "y": 288.77
+                },
+                {
+                  "x": 798.36,
+                  "y": 288.77
+                },
+                {
+                  "x": 798.36,
+                  "y": 328.15
+                },
+                {
+                  "x": 725.74,
+                  "y": 328.15
+                }
+              ],
+              "area": 2860.22,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Oliver Ware PR-2"
+            },
+            {
+              "id": "shp_682821c6",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 254.54,
+                "y0": 288.77,
+                "x1": 327.16,
+                "y1": 328.15,
+                "width": 72.62,
+                "height": 39.38
+              },
+              "center": {
+                "x": 290.85,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 254.54,
+                  "y": 288.77
+                },
+                {
+                  "x": 327.16,
+                  "y": 288.77
+                },
+                {
+                  "x": 327.16,
+                  "y": 328.15
+                },
+                {
+                  "x": 254.54,
+                  "y": 328.15
+                }
+              ],
+              "area": 2860.22,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_c5aadfec",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 73.32,
+                "y0": 288.77,
+                "x1": 145.94,
+                "y1": 328.15,
+                "width": 72.62,
+                "height": 39.38
+              },
+              "center": {
+                "x": 109.63,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 73.32,
+                  "y": 288.77
+                },
+                {
+                  "x": 145.94,
+                  "y": 288.77
+                },
+                {
+                  "x": 145.94,
+                  "y": 328.15
+                },
+                {
+                  "x": 73.32,
+                  "y": 328.15
+                }
+              ],
+              "area": 2860.22,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Alivia Day"
+            },
+            {
+              "id": "shp_9a115fd3",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 761.98,
+                "y0": 184.11,
+                "x1": 816.48,
+                "y1": 236.57,
+                "width": 54.5,
+                "height": 52.46
+              },
+              "center": {
+                "x": 789.23,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 761.98,
+                  "y": 184.11
+                },
+                {
+                  "x": 816.48,
+                  "y": 184.11
+                },
+                {
+                  "x": 816.48,
+                  "y": 236.57
+                },
+                {
+                  "x": 761.98,
+                  "y": 236.57
+                }
+              ],
+              "area": 2859.5,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_dd5539c5",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 163.94,
+                "y0": 288.77,
+                "x1": 236.54,
+                "y1": 328.15,
+                "width": 72.6,
+                "height": 39.38
+              },
+              "center": {
+                "x": 200.24,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 163.94,
+                  "y": 288.77
+                },
+                {
+                  "x": 236.54,
+                  "y": 288.77
+                },
+                {
+                  "x": 236.54,
+                  "y": 328.15
+                },
+                {
+                  "x": 163.94,
+                  "y": 328.15
+                }
+              ],
+              "area": 2859.28,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_1d11b13a",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 345.17,
+                "y0": 288.77,
+                "x1": 417.77,
+                "y1": 328.15,
+                "width": 72.6,
+                "height": 39.38
+              },
+              "center": {
+                "x": 381.47,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 345.17,
+                  "y": 288.77
+                },
+                {
+                  "x": 417.77,
+                  "y": 288.77
+                },
+                {
+                  "x": 417.77,
+                  "y": 328.15
+                },
+                {
+                  "x": 345.17,
+                  "y": 328.15
+                }
+              ],
+              "area": 2859.28,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_7af6eb99",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 472.03,
+                "y0": 288.77,
+                "x1": 544.63,
+                "y1": 328.15,
+                "width": 72.6,
+                "height": 39.38
+              },
+              "center": {
+                "x": 508.33,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 472.03,
+                  "y": 288.77
+                },
+                {
+                  "x": 544.63,
+                  "y": 288.77
+                },
+                {
+                  "x": 544.63,
+                  "y": 328.15
+                },
+                {
+                  "x": 472.03,
+                  "y": 328.15
+                }
+              ],
+              "area": 2859.28,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Jay Wood"
+            },
+            {
+              "id": "shp_2e0423cf",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 508.27,
+                "y0": 184.11,
+                "x1": 562.75,
+                "y1": 236.57,
+                "width": 54.48,
+                "height": 52.46
+              },
+              "center": {
+                "x": 535.51,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 508.27,
+                  "y": 184.11
+                },
+                {
+                  "x": 562.75,
+                  "y": 184.11
+                },
+                {
+                  "x": 562.75,
+                  "y": 236.57
+                },
+                {
+                  "x": 508.27,
+                  "y": 236.57
+                }
+              ],
+              "area": 2858.24,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_03c6f598",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 635.14,
+                "y0": 184.11,
+                "x1": 689.62,
+                "y1": 236.57,
+                "width": 54.48,
+                "height": 52.46
+              },
+              "center": {
+                "x": 662.38,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 635.14,
+                  "y": 184.11
+                },
+                {
+                  "x": 689.62,
+                  "y": 184.11
+                },
+                {
+                  "x": 689.62,
+                  "y": 236.57
+                },
+                {
+                  "x": 635.14,
+                  "y": 236.57
+                }
+              ],
+              "area": 2858.24,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_df59aff8",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 367.27,
+                "x1": 598.99,
+                "y1": 419.71,
+                "width": 54.48,
+                "height": 52.44
+              },
+              "center": {
+                "x": 571.75,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 367.27
+                },
+                {
+                  "x": 598.99,
+                  "y": 367.27
+                },
+                {
+                  "x": 598.99,
+                  "y": 419.71
+                },
+                {
+                  "x": 544.51,
+                  "y": 419.71
+                }
+              ],
+              "area": 2856.93,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_377a310d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 367.27,
+                "x1": 725.86,
+                "y1": 419.71,
+                "width": 54.48,
+                "height": 52.44
+              },
+              "center": {
+                "x": 698.62,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 367.27
+                },
+                {
+                  "x": 725.86,
+                  "y": 367.27
+                },
+                {
+                  "x": 725.86,
+                  "y": 419.71
+                },
+                {
+                  "x": 671.38,
+                  "y": 419.71
+                }
+              ],
+              "area": 2856.93,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_f44b9d82",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 458.86,
+                "x1": 598.99,
+                "y1": 511.3,
+                "width": 54.48,
+                "height": 52.44
+              },
+              "center": {
+                "x": 571.75,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 458.86
+                },
+                {
+                  "x": 598.99,
+                  "y": 458.86
+                },
+                {
+                  "x": 598.99,
+                  "y": 511.3
+                },
+                {
+                  "x": 544.51,
+                  "y": 511.3
+                }
+              ],
+              "area": 2856.93,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_ff573e7c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 458.86,
+                "x1": 725.86,
+                "y1": 511.3,
+                "width": 54.48,
+                "height": 52.44
+              },
+              "center": {
+                "x": 698.62,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 458.86
+                },
+                {
+                  "x": 725.86,
+                  "y": 458.86
+                },
+                {
+                  "x": 725.86,
+                  "y": 511.3
+                },
+                {
+                  "x": 671.38,
+                  "y": 511.3
+                }
+              ],
+              "area": 2856.93,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_bdb5c6e2",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 367.27,
+                "x1": 73.44,
+                "y1": 419.71,
+                "width": 48.72,
+                "height": 52.44
+              },
+              "center": {
+                "x": 49.08,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 367.27
+                },
+                {
+                  "x": 73.44,
+                  "y": 367.27
+                },
+                {
+                  "x": 73.44,
+                  "y": 419.71
+                },
+                {
+                  "x": 24.72,
+                  "y": 419.71
+                }
+              ],
+              "area": 2554.88,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_75c26e10",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 458.86,
+                "x1": 73.44,
+                "y1": 511.3,
+                "width": 48.72,
+                "height": 52.44
+              },
+              "center": {
+                "x": 49.08,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 458.86
+                },
+                {
+                  "x": 73.44,
+                  "y": 458.86
+                },
+                {
+                  "x": 73.44,
+                  "y": 511.3
+                },
+                {
+                  "x": 24.72,
+                  "y": 511.3
+                }
+              ],
+              "area": 2554.88,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_e1d3b146",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 417.65,
+                "y0": 288.77,
+                "x1": 472.15,
+                "y1": 328.15,
+                "width": 54.5,
+                "height": 39.38
+              },
+              "center": {
+                "x": 444.9,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 417.65,
+                  "y": 288.77
+                },
+                {
+                  "x": 472.15,
+                  "y": 288.77
+                },
+                {
+                  "x": 472.15,
+                  "y": 328.15
+                },
+                {
+                  "x": 417.65,
+                  "y": 328.15
+                }
+              ],
+              "area": 2146.59,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_ac2edcdd",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 288.77,
+                "x1": 598.99,
+                "y1": 328.15,
+                "width": 54.48,
+                "height": 39.38
+              },
+              "center": {
+                "x": 571.75,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 288.77
+                },
+                {
+                  "x": 598.99,
+                  "y": 288.77
+                },
+                {
+                  "x": 598.99,
+                  "y": 328.15
+                },
+                {
+                  "x": 544.51,
+                  "y": 328.15
+                }
+              ],
+              "area": 2145.64,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_aa778f2f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 288.77,
+                "x1": 725.86,
+                "y1": 328.15,
+                "width": 54.48,
+                "height": 39.38
+              },
+              "center": {
+                "x": 698.62,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 288.77
+                },
+                {
+                  "x": 725.86,
+                  "y": 288.77
+                },
+                {
+                  "x": 725.86,
+                  "y": 328.15
+                },
+                {
+                  "x": 671.38,
+                  "y": 328.15
+                }
+              ],
+              "area": 2145.64,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_fcde94ea",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 288.77,
+                "x1": 73.44,
+                "y1": 328.15,
+                "width": 48.72,
+                "height": 39.38
+              },
+              "center": {
+                "x": 49.08,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 288.77
+                },
+                {
+                  "x": 73.44,
+                  "y": 288.77
+                },
+                {
+                  "x": 73.44,
+                  "y": 328.15
+                },
+                {
+                  "x": 24.72,
+                  "y": 328.15
+                }
+              ],
+              "area": 1918.79,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_29ca9abe",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 354.19,
+                "x1": 164.06,
+                "y1": 367.39,
+                "width": 139.34,
+                "height": 13.2
+              },
+              "center": {
+                "x": 94.39,
+                "y": 360.79
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 354.19
+                },
+                {
+                  "x": 164.06,
+                  "y": 354.19
+                },
+                {
+                  "x": 164.06,
+                  "y": 367.39
+                },
+                {
+                  "x": 24.72,
+                  "y": 367.39
+                }
+              ],
+              "area": 1839.29,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Sales Personnel-1"
+            },
+            {
+              "id": "shp_41b9c225",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 419.6,
+                "x1": 666.96,
+                "y1": 445.9,
+                "width": 122.45,
+                "height": 26.3
+              },
+              "center": {
+                "x": 605.74,
+                "y": 432.75
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 419.6
+                },
+                {
+                  "x": 666.96,
+                  "y": 419.6
+                },
+                {
+                  "x": 666.96,
+                  "y": 445.9
+                },
+                {
+                  "x": 544.51,
+                  "y": 445.9
+                }
+              ],
+              "area": 3220.95,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Proj. 1 Prod. Personnel"
+            },
+            {
+              "id": "shp_9cfad673",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 419.6,
+                "x1": 793.83,
+                "y1": 445.9,
+                "width": 122.45,
+                "height": 26.3
+              },
+              "center": {
+                "x": 732.61,
+                "y": 432.75
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 419.6
+                },
+                {
+                  "x": 793.83,
+                  "y": 419.6
+                },
+                {
+                  "x": 793.83,
+                  "y": 445.9
+                },
+                {
+                  "x": 671.38,
+                  "y": 445.9
+                }
+              ],
+              "area": 3220.95,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Proj. 2 Prod. Personnel"
+            },
+            {
+              "id": "shp_3d50152c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 761.98,
+                "y0": 236.45,
+                "x1": 816.48,
+                "y1": 262.73,
+                "width": 54.5,
+                "height": 26.28
+              },
+              "center": {
+                "x": 789.23,
+                "y": 249.59
+              },
+              "vertices": [
+                {
+                  "x": 761.98,
+                  "y": 236.45
+                },
+                {
+                  "x": 816.48,
+                  "y": 236.45
+                },
+                {
+                  "x": 816.48,
+                  "y": 262.73
+                },
+                {
+                  "x": 761.98,
+                  "y": 262.73
+                }
+              ],
+              "area": 1432.37,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_ed7c6320",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 508.27,
+                "y0": 236.45,
+                "x1": 630.96,
+                "y1": 262.73,
+                "width": 122.69,
+                "height": 26.28
+              },
+              "center": {
+                "x": 569.62,
+                "y": 249.59
+              },
+              "vertices": [
+                {
+                  "x": 508.27,
+                  "y": 236.45
+                },
+                {
+                  "x": 630.96,
+                  "y": 236.45
+                },
+                {
+                  "x": 630.96,
+                  "y": 262.73
+                },
+                {
+                  "x": 508.27,
+                  "y": 262.73
+                }
+              ],
+              "area": 3224.37,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Project 1 Manager"
+            },
+            {
+              "id": "shp_ca8b0938",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 635.14,
+                "y0": 236.45,
+                "x1": 757.83,
+                "y1": 262.73,
+                "width": 122.69,
+                "height": 26.28
+              },
+              "center": {
+                "x": 696.49,
+                "y": 249.59
+              },
+              "vertices": [
+                {
+                  "x": 635.14,
+                  "y": 236.45
+                },
+                {
+                  "x": 757.83,
+                  "y": 236.45
+                },
+                {
+                  "x": 757.83,
+                  "y": 262.73
+                },
+                {
+                  "x": 635.14,
+                  "y": 262.73
+                }
+              ],
+              "area": 3224.37,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Project 2 Manager"
+            },
+            {
+              "id": "shp_743dc80b",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 511.18,
+                "x1": 667.86,
+                "y1": 537.46,
+                "width": 123.35,
+                "height": 26.28
+              },
+              "center": {
+                "x": 606.18,
+                "y": 524.32
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 511.18
+                },
+                {
+                  "x": 667.86,
+                  "y": 511.18
+                },
+                {
+                  "x": 667.86,
+                  "y": 537.46
+                },
+                {
+                  "x": 544.51,
+                  "y": 537.46
+                }
+              ],
+              "area": 3241.52,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Proj. 1 R&D Personnel"
+            },
+            {
+              "id": "shp_2252e03f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 511.18,
+                "x1": 794.73,
+                "y1": 537.46,
+                "width": 123.35,
+                "height": 26.28
+              },
+              "center": {
+                "x": 733.05,
+                "y": 524.32
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 511.18
+                },
+                {
+                  "x": 794.73,
+                  "y": 511.18
+                },
+                {
+                  "x": 794.73,
+                  "y": 537.46
+                },
+                {
+                  "x": 671.38,
+                  "y": 537.46
+                }
+              ],
+              "area": 3241.52,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Proj. 2 R&D Personnel"
+            },
+            {
+              "id": "shp_41a46e25",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 419.6,
+                "x1": 141.08,
+                "y1": 445.9,
+                "width": 116.36,
+                "height": 26.3
+              },
+              "center": {
+                "x": 82.9,
+                "y": 432.75
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 419.6
+                },
+                {
+                  "x": 141.08,
+                  "y": 419.6
+                },
+                {
+                  "x": 141.08,
+                  "y": 445.9
+                },
+                {
+                  "x": 24.72,
+                  "y": 445.9
+                }
+              ],
+              "area": 3060.76,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Sales Personnel-2"
+            },
+            {
+              "id": "shp_ae396b46",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 598.87,
+                "y0": 275.69,
+                "x1": 671.49,
+                "y1": 288.89,
+                "width": 72.62,
+                "height": 13.2
+              },
+              "center": {
+                "x": 635.18,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 598.87,
+                  "y": 275.69
+                },
+                {
+                  "x": 671.49,
+                  "y": 275.69
+                },
+                {
+                  "x": 671.49,
+                  "y": 288.89
+                },
+                {
+                  "x": 598.87,
+                  "y": 288.89
+                }
+              ],
+              "area": 958.64,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_2fe72ac7",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 725.74,
+                "y0": 275.69,
+                "x1": 798.36,
+                "y1": 288.89,
+                "width": 72.62,
+                "height": 13.2
+              },
+              "center": {
+                "x": 762.05,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 725.74,
+                  "y": 275.69
+                },
+                {
+                  "x": 798.36,
+                  "y": 275.69
+                },
+                {
+                  "x": 798.36,
+                  "y": 288.89
+                },
+                {
+                  "x": 725.74,
+                  "y": 288.89
+                }
+              ],
+              "area": 958.64,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_c622b432",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 254.54,
+                "y0": 328.03,
+                "x1": 327.16,
+                "y1": 341.23,
+                "width": 72.62,
+                "height": 13.2
+              },
+              "center": {
+                "x": 290.85,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 254.54,
+                  "y": 328.03
+                },
+                {
+                  "x": 327.16,
+                  "y": 328.03
+                },
+                {
+                  "x": 327.16,
+                  "y": 341.23
+                },
+                {
+                  "x": 254.54,
+                  "y": 341.23
+                }
+              ],
+              "area": 958.64,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Samara Logan"
+            },
+            {
+              "id": "shp_591f7fe7",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 73.32,
+                "y0": 275.69,
+                "x1": 145.94,
+                "y1": 288.89,
+                "width": 72.62,
+                "height": 13.2
+              },
+              "center": {
+                "x": 109.63,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 73.32,
+                  "y": 275.69
+                },
+                {
+                  "x": 145.94,
+                  "y": 275.69
+                },
+                {
+                  "x": 145.94,
+                  "y": 288.89
+                },
+                {
+                  "x": 73.32,
+                  "y": 288.89
+                }
+              ],
+              "area": 958.64,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_f848901d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 472.03,
+                "y0": 275.69,
+                "x1": 544.63,
+                "y1": 288.89,
+                "width": 72.6,
+                "height": 13.2
+              },
+              "center": {
+                "x": 508.33,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 472.03,
+                  "y": 275.69
+                },
+                {
+                  "x": 544.63,
+                  "y": 275.69
+                },
+                {
+                  "x": 544.63,
+                  "y": 288.89
+                },
+                {
+                  "x": 472.03,
+                  "y": 288.89
+                }
+              ],
+              "area": 958.32,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_f2d67962",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 163.94,
+                "y0": 328.03,
+                "x1": 236.54,
+                "y1": 341.23,
+                "width": 72.6,
+                "height": 13.2
+              },
+              "center": {
+                "x": 200.24,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 163.94,
+                  "y": 328.03
+                },
+                {
+                  "x": 236.54,
+                  "y": 328.03
+                },
+                {
+                  "x": 236.54,
+                  "y": 341.23
+                },
+                {
+                  "x": 163.94,
+                  "y": 341.23
+                }
+              ],
+              "area": 958.32,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Taya Fuentes"
+            },
+            {
+              "id": "shp_dd179ea9",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 345.17,
+                "y0": 328.03,
+                "x1": 417.77,
+                "y1": 341.23,
+                "width": 72.6,
+                "height": 13.2
+              },
+              "center": {
+                "x": 381.47,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 345.17,
+                  "y": 328.03
+                },
+                {
+                  "x": 417.77,
+                  "y": 328.03
+                },
+                {
+                  "x": 417.77,
+                  "y": 341.23
+                },
+                {
+                  "x": 345.17,
+                  "y": 341.23
+                }
+              ],
+              "area": 958.32,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Angel Barnett"
+            },
+            {
+              "id": "shp_3f060262",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 367.27,
+                "x1": 816.48,
+                "y1": 419.71,
+                "width": 18.24,
+                "height": 52.44
+              },
+              "center": {
+                "x": 807.36,
+                "y": 393.49
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 367.27
+                },
+                {
+                  "x": 816.48,
+                  "y": 367.27
+                },
+                {
+                  "x": 816.48,
+                  "y": 419.71
+                },
+                {
+                  "x": 798.24,
+                  "y": 419.71
+                }
+              ],
+              "area": 956.51,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_84edc6c5",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 458.86,
+                "x1": 816.48,
+                "y1": 511.3,
+                "width": 18.24,
+                "height": 52.44
+              },
+              "center": {
+                "x": 807.36,
+                "y": 485.08
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 458.86
+                },
+                {
+                  "x": 816.48,
+                  "y": 458.86
+                },
+                {
+                  "x": 816.48,
+                  "y": 511.3
+                },
+                {
+                  "x": 798.24,
+                  "y": 511.3
+                }
+              ],
+              "area": 956.51,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_461b0973",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 417.65,
+                "y0": 328.03,
+                "x1": 472.15,
+                "y1": 341.23,
+                "width": 54.5,
+                "height": 13.2
+              },
+              "center": {
+                "x": 444.9,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 417.65,
+                  "y": 328.03
+                },
+                {
+                  "x": 472.15,
+                  "y": 328.03
+                },
+                {
+                  "x": 472.15,
+                  "y": 341.23
+                },
+                {
+                  "x": 417.65,
+                  "y": 341.23
+                }
+              ],
+              "area": 719.45,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_6ea6a82f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 417.65,
+                "y0": 341.11,
+                "x1": 538.72,
+                "y1": 354.31,
+                "width": 121.07,
+                "height": 13.2
+              },
+              "center": {
+                "x": 478.18,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 417.65,
+                  "y": 341.11
+                },
+                {
+                  "x": 538.72,
+                  "y": 341.11
+                },
+                {
+                  "x": 538.72,
+                  "y": 354.31
+                },
+                {
+                  "x": 417.65,
+                  "y": 354.31
+                }
+              ],
+              "area": 1598.08,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "R&D Personnel-1"
+            },
+            {
+              "id": "shp_7ea9b215",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 275.69,
+                "x1": 598.99,
+                "y1": 288.89,
+                "width": 54.48,
+                "height": 13.2
+              },
+              "center": {
+                "x": 571.75,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 275.69
+                },
+                {
+                  "x": 598.99,
+                  "y": 275.69
+                },
+                {
+                  "x": 598.99,
+                  "y": 288.89
+                },
+                {
+                  "x": 544.51,
+                  "y": 288.89
+                }
+              ],
+              "area": 719.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_8e636759",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 275.69,
+                "x1": 725.86,
+                "y1": 288.89,
+                "width": 54.48,
+                "height": 13.2
+              },
+              "center": {
+                "x": 698.62,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 275.69
+                },
+                {
+                  "x": 725.86,
+                  "y": 275.69
+                },
+                {
+                  "x": 725.86,
+                  "y": 288.89
+                },
+                {
+                  "x": 671.38,
+                  "y": 288.89
+                }
+              ],
+              "area": 719.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_5c4128f3",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 328.03,
+                "x1": 598.99,
+                "y1": 341.23,
+                "width": 54.48,
+                "height": 13.2
+              },
+              "center": {
+                "x": 571.75,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 328.03
+                },
+                {
+                  "x": 598.99,
+                  "y": 328.03
+                },
+                {
+                  "x": 598.99,
+                  "y": 341.23
+                },
+                {
+                  "x": 544.51,
+                  "y": 341.23
+                }
+              ],
+              "area": 719.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_7a7d7b60",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 328.03,
+                "x1": 725.86,
+                "y1": 341.23,
+                "width": 54.48,
+                "height": 13.2
+              },
+              "center": {
+                "x": 698.62,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 328.03
+                },
+                {
+                  "x": 725.86,
+                  "y": 328.03
+                },
+                {
+                  "x": 725.86,
+                  "y": 341.23
+                },
+                {
+                  "x": 671.38,
+                  "y": 341.23
+                }
+              ],
+              "area": 719.14,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_d0f983f0",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 544.51,
+                "y0": 341.11,
+                "x1": 667.63,
+                "y1": 354.31,
+                "width": 123.12,
+                "height": 13.2
+              },
+              "center": {
+                "x": 606.07,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 544.51,
+                  "y": 341.11
+                },
+                {
+                  "x": 667.63,
+                  "y": 341.11
+                },
+                {
+                  "x": 667.63,
+                  "y": 354.31
+                },
+                {
+                  "x": 544.51,
+                  "y": 354.31
+                }
+              ],
+              "area": 1625.12,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Proj. 1 Sales Personnel"
+            },
+            {
+              "id": "shp_a771f86a",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 671.38,
+                "y0": 341.11,
+                "x1": 794.5,
+                "y1": 354.31,
+                "width": 123.12,
+                "height": 13.2
+              },
+              "center": {
+                "x": 732.94,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 671.38,
+                  "y": 341.11
+                },
+                {
+                  "x": 794.5,
+                  "y": 341.11
+                },
+                {
+                  "x": 794.5,
+                  "y": 354.31
+                },
+                {
+                  "x": 671.38,
+                  "y": 354.31
+                }
+              ],
+              "area": 1625.12,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Proj. 2 Sales Personnel"
+            },
+            {
+              "id": "shp_1b07750d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 288.77,
+                "x1": 164.06,
+                "y1": 328.15,
+                "width": 18.24,
+                "height": 39.38
+              },
+              "center": {
+                "x": 154.94,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 288.77
+                },
+                {
+                  "x": 164.06,
+                  "y": 288.77
+                },
+                {
+                  "x": 164.06,
+                  "y": 328.15
+                },
+                {
+                  "x": 145.82,
+                  "y": 328.15
+                }
+              ],
+              "area": 718.36,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_01d3e336",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 236.42,
+                "y0": 288.77,
+                "x1": 254.66,
+                "y1": 328.15,
+                "width": 18.24,
+                "height": 39.38
+              },
+              "center": {
+                "x": 245.54,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 236.42,
+                  "y": 288.77
+                },
+                {
+                  "x": 254.66,
+                  "y": 288.77
+                },
+                {
+                  "x": 254.66,
+                  "y": 328.15
+                },
+                {
+                  "x": 236.42,
+                  "y": 328.15
+                }
+              ],
+              "area": 718.36,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_f2b2cdb1",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 327.05,
+                "y0": 288.77,
+                "x1": 345.29,
+                "y1": 328.15,
+                "width": 18.24,
+                "height": 39.38
+              },
+              "center": {
+                "x": 336.17,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 327.05,
+                  "y": 288.77
+                },
+                {
+                  "x": 345.29,
+                  "y": 288.77
+                },
+                {
+                  "x": 345.29,
+                  "y": 328.15
+                },
+                {
+                  "x": 327.05,
+                  "y": 328.15
+                }
+              ],
+              "area": 718.36,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_70049616",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 288.77,
+                "x1": 816.48,
+                "y1": 328.15,
+                "width": 18.24,
+                "height": 39.38
+              },
+              "center": {
+                "x": 807.36,
+                "y": 308.46
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 288.77
+                },
+                {
+                  "x": 816.48,
+                  "y": 288.77
+                },
+                {
+                  "x": 816.48,
+                  "y": 328.15
+                },
+                {
+                  "x": 798.24,
+                  "y": 328.15
+                }
+              ],
+              "area": 718.36,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_a2de6a62",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 184.11,
+                "x1": 37.2,
+                "y1": 236.57,
+                "width": 12.48,
+                "height": 52.46
+              },
+              "center": {
+                "x": 30.96,
+                "y": 210.34
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 184.11
+                },
+                {
+                  "x": 37.2,
+                  "y": 184.11
+                },
+                {
+                  "x": 37.2,
+                  "y": 236.57
+                },
+                {
+                  "x": 24.72,
+                  "y": 236.57
+                }
+              ],
+              "area": 654.75,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_4729ebd4",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 275.69,
+                "x1": 73.44,
+                "y1": 288.89,
+                "width": 48.72,
+                "height": 13.2
+              },
+              "center": {
+                "x": 49.08,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 275.69
+                },
+                {
+                  "x": 73.44,
+                  "y": 275.69
+                },
+                {
+                  "x": 73.44,
+                  "y": 288.89
+                },
+                {
+                  "x": 24.72,
+                  "y": 288.89
+                }
+              ],
+              "area": 643.1,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_b8a468a3",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 328.03,
+                "x1": 73.44,
+                "y1": 341.23,
+                "width": 48.72,
+                "height": 13.2
+              },
+              "center": {
+                "x": 49.08,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 328.03
+                },
+                {
+                  "x": 73.44,
+                  "y": 328.03
+                },
+                {
+                  "x": 73.44,
+                  "y": 341.23
+                },
+                {
+                  "x": 24.72,
+                  "y": 341.23
+                }
+              ],
+              "area": 643.1,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_a86fbf7e",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 341.11,
+                "x1": 73.44,
+                "y1": 354.31,
+                "width": 48.72,
+                "height": 13.2
+              },
+              "center": {
+                "x": 49.08,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 341.11
+                },
+                {
+                  "x": 73.44,
+                  "y": 341.11
+                },
+                {
+                  "x": 73.44,
+                  "y": 354.31
+                },
+                {
+                  "x": 24.72,
+                  "y": 354.31
+                }
+              ],
+              "area": 643.1,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_3ad182c6",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 419.6,
+                "x1": 816.48,
+                "y1": 445.9,
+                "width": 18.24,
+                "height": 26.3
+              },
+              "center": {
+                "x": 807.36,
+                "y": 432.75
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 419.6
+                },
+                {
+                  "x": 816.48,
+                  "y": 419.6
+                },
+                {
+                  "x": 816.48,
+                  "y": 445.9
+                },
+                {
+                  "x": 798.24,
+                  "y": 445.9
+                }
+              ],
+              "area": 479.78,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_df6f71ce",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 24.72,
+                "y0": 236.45,
+                "x1": 105.7,
+                "y1": 262.73,
+                "width": 80.98,
+                "height": 26.28
+              },
+              "center": {
+                "x": 65.21,
+                "y": 249.59
+              },
+              "vertices": [
+                {
+                  "x": 24.72,
+                  "y": 236.45
+                },
+                {
+                  "x": 105.7,
+                  "y": 236.45
+                },
+                {
+                  "x": 105.7,
+                  "y": 262.73
+                },
+                {
+                  "x": 24.72,
+                  "y": 262.73
+                }
+              ],
+              "area": 2128.17,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Marketing Manager"
+            },
+            {
+              "id": "shp_a440799d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 328.03,
+                "x1": 164.06,
+                "y1": 341.23,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 154.94,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 328.03
+                },
+                {
+                  "x": 164.06,
+                  "y": 328.03
+                },
+                {
+                  "x": 164.06,
+                  "y": 341.23
+                },
+                {
+                  "x": 145.82,
+                  "y": 341.23
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_de104767",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 236.42,
+                "y0": 328.03,
+                "x1": 254.66,
+                "y1": 341.23,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 245.54,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 236.42,
+                  "y": 328.03
+                },
+                {
+                  "x": 254.66,
+                  "y": 328.03
+                },
+                {
+                  "x": 254.66,
+                  "y": 341.23
+                },
+                {
+                  "x": 236.42,
+                  "y": 341.23
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_7c541e7e",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 236.42,
+                "y0": 354.19,
+                "x1": 254.66,
+                "y1": 367.39,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 245.54,
+                "y": 360.79
+              },
+              "vertices": [
+                {
+                  "x": 236.42,
+                  "y": 354.19
+                },
+                {
+                  "x": 254.66,
+                  "y": 354.19
+                },
+                {
+                  "x": 254.66,
+                  "y": 367.39
+                },
+                {
+                  "x": 236.42,
+                  "y": 367.39
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_e5b5ff2d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 275.69,
+                "x1": 816.48,
+                "y1": 288.89,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 807.36,
+                "y": 282.29
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 275.69
+                },
+                {
+                  "x": 816.48,
+                  "y": 275.69
+                },
+                {
+                  "x": 816.48,
+                  "y": 288.89
+                },
+                {
+                  "x": 798.24,
+                  "y": 288.89
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_73e32bad",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 327.05,
+                "y0": 328.03,
+                "x1": 345.29,
+                "y1": 341.23,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 336.17,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 327.05,
+                  "y": 328.03
+                },
+                {
+                  "x": 345.29,
+                  "y": 328.03
+                },
+                {
+                  "x": 345.29,
+                  "y": 341.23
+                },
+                {
+                  "x": 327.05,
+                  "y": 341.23
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_b779005f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 328.03,
+                "x1": 816.48,
+                "y1": 341.23,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 807.36,
+                "y": 334.63
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 328.03
+                },
+                {
+                  "x": 816.48,
+                  "y": 328.03
+                },
+                {
+                  "x": 816.48,
+                  "y": 341.23
+                },
+                {
+                  "x": 798.24,
+                  "y": 341.23
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_6ef415ca",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 327.05,
+                "y0": 354.19,
+                "x1": 345.29,
+                "y1": 367.39,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 336.17,
+                "y": 360.79
+              },
+              "vertices": [
+                {
+                  "x": 327.05,
+                  "y": 354.19
+                },
+                {
+                  "x": 345.29,
+                  "y": 354.19
+                },
+                {
+                  "x": 345.29,
+                  "y": 367.39
+                },
+                {
+                  "x": 327.05,
+                  "y": 367.39
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_18d7d6f5",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 145.82,
+                "y0": 341.11,
+                "x1": 164.06,
+                "y1": 354.31,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 154.94,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 145.82,
+                  "y": 341.11
+                },
+                {
+                  "x": 164.06,
+                  "y": 341.11
+                },
+                {
+                  "x": 164.06,
+                  "y": 354.31
+                },
+                {
+                  "x": 145.82,
+                  "y": 354.31
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_7512c755",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 236.42,
+                "y0": 341.11,
+                "x1": 254.66,
+                "y1": 354.31,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 245.54,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 236.42,
+                  "y": 341.11
+                },
+                {
+                  "x": 254.66,
+                  "y": 341.11
+                },
+                {
+                  "x": 254.66,
+                  "y": 354.31
+                },
+                {
+                  "x": 236.42,
+                  "y": 354.31
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_c4fb9d19",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 327.05,
+                "y0": 341.11,
+                "x1": 345.29,
+                "y1": 354.31,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 336.17,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 327.05,
+                  "y": 341.11
+                },
+                {
+                  "x": 345.29,
+                  "y": 341.11
+                },
+                {
+                  "x": 345.29,
+                  "y": 354.31
+                },
+                {
+                  "x": 327.05,
+                  "y": 354.31
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_79c94a32",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 798.24,
+                "y0": 341.11,
+                "x1": 816.48,
+                "y1": 354.31,
+                "width": 18.24,
+                "height": 13.2
+              },
+              "center": {
+                "x": 807.36,
+                "y": 347.71
+              },
+              "vertices": [
+                {
+                  "x": 798.24,
+                  "y": 341.11
+                },
+                {
+                  "x": 816.48,
+                  "y": 341.11
+                },
+                {
+                  "x": 816.48,
+                  "y": 354.31
+                },
+                {
+                  "x": 798.24,
+                  "y": 354.31
+                }
+              ],
+              "area": 240.77,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_c86121fe",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 79.68,
+                "y0": 26.82,
+                "x1": 315.24,
+                "y1": 59.28,
+                "width": 235.56,
+                "height": 32.46
+              },
+              "center": {
+                "x": 197.46,
+                "y": 43.05
+              },
+              "vertices": [
+                {
+                  "x": 79.68,
+                  "y": 26.82
+                },
+                {
+                  "x": 315.24,
+                  "y": 26.82
+                },
+                {
+                  "x": 315.24,
+                  "y": 59.28
+                },
+                {
+                  "x": 79.68,
+                  "y": 59.28
+                }
+              ],
+              "area": 7646.12,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "SOMEKA TEMPLATES\nMATRIX ORGANIZATIONAL STRUCTURE"
+            },
+            {
+              "id": "shp_e27601d9",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 468.46,
+                "y0": 31.94,
+                "x1": 531.73,
+                "y1": 49.86,
+                "width": 63.27,
+                "height": 17.92
+              },
+              "center": {
+                "x": 500.1,
+                "y": 40.9
+              },
+              "vertices": [
+                {
+                  "x": 468.46,
+                  "y": 31.94
+                },
+                {
+                  "x": 531.73,
+                  "y": 31.94
+                },
+                {
+                  "x": 531.73,
+                  "y": 49.86
+                },
+                {
+                  "x": 468.46,
+                  "y": 49.86
+                }
+              ],
+              "area": 1133.65,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "VISIT ORG CHART GENERATOR"
+            }
+          ],
+          "edges": [],
+          "charts": [],
+          "text_elements": []
+        }
+      ]
+    }
+  ]
+}

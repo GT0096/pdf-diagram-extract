@@ -127,6 +127,10 @@ def _process_page(
     # Step 3: Classify and clean
     shapes, edges = shape_classifier.classify_and_clean(shapes, edges)
 
+    # Step 3.5: Extract native text and generate virtual text nodes
+    from . import text_extractor
+    text_extractor.assign_text(page, shapes)
+
     # Step 4: Resolve relationships and group into diagrams
     diagrams = resolve_relationships(shapes, edges)
 
@@ -153,10 +157,6 @@ def _process_page(
 
     # Remove empty diagrams (shapes consumed by chart detection)
     diagrams = [d for d in diagrams if d.shapes or d.edges or d.charts]
-    
-    # Step 6: Extract and assign native text from the PDF page
-    from . import text_extractor
-    text_extractor.assign_text(page, diagrams)
 
     return PageResult(
         page_number=page_index,
