@@ -69,9 +69,21 @@ Extraction results for a single page.
 
 ---
 
+### `TextElement`
+
+A detected floating text block in the diagram (e.g. edge labels, chart titles, axis labels) that is not strictly contained inside any shape.
+
+| Field | Type | Description |
+|---|---|---|
+| `id` | `str` | Unique identifier (e.g., `"txt_a1b2c3d4"`) |
+| `text` | `str` | The extracted string content |
+| `bbox` | `BoundingBox` | Bounding box enclosing the text |
+
+---
+
 ### `Diagram`
 
-A connected group of shapes and edges forming a single diagram.
+A single diagram or graph detected on a page.
 
 | Field | Type | Description |
 |---|---|---|
@@ -79,6 +91,7 @@ A connected group of shapes and edges forming a single diagram.
 | `shapes` | `list[Shape]` | Shape nodes in this diagram |
 | `edges` | `list[Edge]` | Edges (connections) in this diagram |
 | `charts` | `list[ChartElement]` | Detected chart patterns |
+| `text_elements` | `list[TextElement]` | Floating text blocks associated with this diagram |
 
 ---
 
@@ -97,6 +110,7 @@ A detected geometric shape (node) in the diagram.
 | `fill_color` | `tuple[int,int,int] \| None` | RGB fill color (0–255), or `None` |
 | `stroke_color` | `tuple[int,int,int] \| None` | RGB stroke color (0–255), or `None` |
 | `stroke_width` | `float` | Stroke width in points |
+| `text` | `str \| None` | Native text physically located inside this shape |
 
 ---
 
@@ -196,7 +210,8 @@ A 2D point in PDF coordinate space.
               "area": 4000.0,
               "fill_color": [51, 102, 204],
               "stroke_color": [0, 0, 0],
-              "stroke_width": 1.5
+              "stroke_width": 1.5,
+              "text": "Start Process"
             }
           ],
           "edges": [
@@ -214,7 +229,14 @@ A 2D point in PDF coordinate space.
               "stroke_width": 1.0
             }
           ],
-          "charts": []
+          "charts": [],
+          "text_elements": [
+            {
+              "id": "txt_t1t2t3t4",
+              "text": "Yes",
+              "bbox": { "x0": 160.0, "y0": 110.0, "x1": 180.0, "y1": 118.0, "width": 20.0, "height": 8.0 }
+            }
+          ]
         }
       ]
     }

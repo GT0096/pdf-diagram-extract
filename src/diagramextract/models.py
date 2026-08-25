@@ -103,6 +103,7 @@ class Shape:
     fill_color: tuple[int, int, int] | None = None
     stroke_color: tuple[int, int, int] | None = None
     stroke_width: float = 1.0
+    text: str | None = None
 
     def to_dict(self) -> dict[str, Any]:
         return {
@@ -115,6 +116,7 @@ class Shape:
             "fill_color": list(self.fill_color) if self.fill_color else None,
             "stroke_color": list(self.stroke_color) if self.stroke_color else None,
             "stroke_width": round(self.stroke_width, 2),
+            "text": self.text,
         }
 
 
@@ -205,6 +207,28 @@ class ChartElement:
 
 
 @dataclass
+class TextElement:
+    """A detected text block in the diagram (e.g. edge label, title).
+
+    Attributes:
+        id: Unique identifier for this text element.
+        text: The extracted string content.
+        bbox: Bounding box enclosing the text.
+    """
+
+    id: str = field(default_factory=lambda: _generate_id("txt"))
+    text: str = ""
+    bbox: BoundingBox = field(default_factory=lambda: BoundingBox(0, 0, 0, 0))
+
+    def to_dict(self) -> dict[str, Any]:
+        return {
+            "id": self.id,
+            "text": self.text,
+            "bbox": self.bbox.to_dict(),
+        }
+
+
+@dataclass
 class Diagram:
     """A single diagram or graph detected on a page.
 
@@ -222,6 +246,7 @@ class Diagram:
     shapes: list[Shape] = field(default_factory=list)
     edges: list[Edge] = field(default_factory=list)
     charts: list[ChartElement] = field(default_factory=list)
+    text_elements: list[TextElement] = field(default_factory=list)
 
     def to_dict(self) -> dict[str, Any]:
         return {
@@ -229,6 +254,7 @@ class Diagram:
             "shapes": [s.to_dict() for s in self.shapes],
             "edges": [e.to_dict() for e in self.edges],
             "charts": [c.to_dict() for c in self.charts],
+            "text_elements": [t.to_dict() for t in self.text_elements],
         }
 
 
