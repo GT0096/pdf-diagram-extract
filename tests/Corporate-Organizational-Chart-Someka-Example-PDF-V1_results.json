@@ -1,0 +1,1691 @@
+{
+  "source_file": "Corporate-Organizational-Chart-Someka-Example-PDF-V1.pdf",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 0,
+      "width": 841.92,
+      "height": 595.32,
+      "extraction_method": "vector",
+      "diagrams": [
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_4e0bbe46",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 45.48,
+                "y0": 527.26,
+                "x1": 525.67,
+                "y1": 555.94,
+                "width": 480.19,
+                "height": 28.68
+              },
+              "center": {
+                "x": 285.57,
+                "y": 541.6
+              },
+              "vertices": [
+                {
+                  "x": 45.48,
+                  "y": 527.26
+                },
+                {
+                  "x": 525.67,
+                  "y": 527.26
+                },
+                {
+                  "x": 525.67,
+                  "y": 555.94
+                },
+                {
+                  "x": 45.48,
+                  "y": 555.94
+                }
+              ],
+              "area": 13771.87,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_5fb416d1",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 557.83,
+                "y0": 527.26,
+                "x1": 795.72,
+                "y1": 555.94,
+                "width": 237.89,
+                "height": 28.68
+              },
+              "center": {
+                "x": 676.77,
+                "y": 541.6
+              },
+              "vertices": [
+                {
+                  "x": 557.83,
+                  "y": 527.26
+                },
+                {
+                  "x": 795.72,
+                  "y": 527.26
+                },
+                {
+                  "x": 795.72,
+                  "y": 555.94
+                },
+                {
+                  "x": 557.83,
+                  "y": 555.94
+                }
+              ],
+              "area": 6822.7,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Angel Barnett Investment Manager"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_46076b8a",
+              "edge_type": "line",
+              "start_point": {
+                "x": 45.06,
+                "y": 22.62
+              },
+              "end_point": {
+                "x": 796.02,
+                "y": 22.62
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            },
+            {
+              "id": "edg_bbbbc372",
+              "edge_type": "line",
+              "start_point": {
+                "x": 45.06,
+                "y": 22.62
+              },
+              "end_point": {
+                "x": 45.06,
+                "y": 570.54
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_4e0bbe46",
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            },
+            {
+              "id": "edg_8ab49f1c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 45.06,
+                "y": 569.7
+              },
+              "end_point": {
+                "x": 796.02,
+                "y": 569.7
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_4e0bbe46",
+              "target_shape_id": "shp_5fb416d1",
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            },
+            {
+              "id": "edg_65ffa1c0",
+              "edge_type": "line",
+              "start_point": {
+                "x": 795.16,
+                "y": 22.62
+              },
+              "end_point": {
+                "x": 795.16,
+                "y": 570.54
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_5fb416d1",
+              "stroke_color": [
+                0,
+                0,
+                0
+              ],
+              "stroke_width": 0.14
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_b54e760e",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 438.05,
+                "y0": 298.73,
+                "x1": 795.72,
+                "y1": 327.43,
+                "width": 357.67,
+                "height": 28.7
+              },
+              "center": {
+                "x": 616.88,
+                "y": 313.08
+              },
+              "vertices": [
+                {
+                  "x": 438.05,
+                  "y": 298.73
+                },
+                {
+                  "x": 795.72,
+                  "y": 298.73
+                },
+                {
+                  "x": 795.72,
+                  "y": 327.43
+                },
+                {
+                  "x": 438.05,
+                  "y": 327.43
+                }
+              ],
+              "area": 10266.56,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Roy Margaret CEO"
+            },
+            {
+              "id": "shp_25a64f6e",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 212.78,
+                "y0": 441.58,
+                "x1": 525.67,
+                "y1": 470.26,
+                "width": 312.89,
+                "height": 28.68
+              },
+              "center": {
+                "x": 369.22,
+                "y": 455.92
+              },
+              "vertices": [
+                {
+                  "x": 212.78,
+                  "y": 441.58
+                },
+                {
+                  "x": 525.67,
+                  "y": 441.58
+                },
+                {
+                  "x": 525.67,
+                  "y": 470.26
+                },
+                {
+                  "x": 212.78,
+                  "y": 470.26
+                }
+              ],
+              "area": 8973.68,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "William Purser Store B Supervisor"
+            },
+            {
+              "id": "shp_dd45c034",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 270.53,
+                "y0": 484.42,
+                "x1": 525.67,
+                "y1": 513.1,
+                "width": 255.14,
+                "height": 28.68
+              },
+              "center": {
+                "x": 398.1,
+                "y": 498.76
+              },
+              "vertices": [
+                {
+                  "x": 270.53,
+                  "y": 484.42
+                },
+                {
+                  "x": 525.67,
+                  "y": 484.42
+                },
+                {
+                  "x": 525.67,
+                  "y": 513.1
+                },
+                {
+                  "x": 270.53,
+                  "y": 513.1
+                }
+              ],
+              "area": 7317.41,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_3d151ce6",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 615.55,
+                "y0": 441.58,
+                "x1": 795.72,
+                "y1": 470.26,
+                "width": 180.17,
+                "height": 28.68
+              },
+              "center": {
+                "x": 705.63,
+                "y": 455.92
+              },
+              "vertices": [
+                {
+                  "x": 615.55,
+                  "y": 441.58
+                },
+                {
+                  "x": 795.72,
+                  "y": 441.58
+                },
+                {
+                  "x": 795.72,
+                  "y": 470.26
+                },
+                {
+                  "x": 615.55,
+                  "y": 470.26
+                }
+              ],
+              "area": 5167.27,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_6ceea78c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 557.95,
+                "y0": 484.42,
+                "x1": 795.72,
+                "y1": 513.1,
+                "width": 237.77,
+                "height": 28.68
+              },
+              "center": {
+                "x": 676.83,
+                "y": 498.76
+              },
+              "vertices": [
+                {
+                  "x": 557.95,
+                  "y": 484.42
+                },
+                {
+                  "x": 795.72,
+                  "y": 484.42
+                },
+                {
+                  "x": 795.72,
+                  "y": 513.1
+                },
+                {
+                  "x": 557.95,
+                  "y": 513.1
+                }
+              ],
+              "area": 6819.24,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Samara Logan Sales Manager"
+            },
+            {
+              "id": "shp_43257493",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 375.53,
+                "y0": 355.87,
+                "x1": 465.67,
+                "y1": 384.55,
+                "width": 90.14,
+                "height": 28.68
+              },
+              "center": {
+                "x": 420.6,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 375.53,
+                  "y": 355.87
+                },
+                {
+                  "x": 465.67,
+                  "y": 355.87
+                },
+                {
+                  "x": 465.67,
+                  "y": 384.55
+                },
+                {
+                  "x": 375.53,
+                  "y": 384.55
+                }
+              ],
+              "area": 2585.33,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "LLC"
+            },
+            {
+              "id": "shp_13696e6e",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 435.53,
+                "y0": 398.71,
+                "x1": 525.67,
+                "y1": 427.39,
+                "width": 90.14,
+                "height": 28.68
+              },
+              "center": {
+                "x": 480.6,
+                "y": 413.05
+              },
+              "vertices": [
+                {
+                  "x": 435.53,
+                  "y": 398.71
+                },
+                {
+                  "x": 525.67,
+                  "y": 398.71
+                },
+                {
+                  "x": 525.67,
+                  "y": 427.39
+                },
+                {
+                  "x": 435.53,
+                  "y": 427.39
+                }
+              ],
+              "area": 2585.33,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_e713cb98",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 210.5,
+                "y0": 355.87,
+                "x1": 285.64,
+                "y1": 384.55,
+                "width": 75.14,
+                "height": 28.68
+              },
+              "center": {
+                "x": 248.07,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 210.5,
+                  "y": 355.87
+                },
+                {
+                  "x": 285.64,
+                  "y": 355.87
+                },
+                {
+                  "x": 285.64,
+                  "y": 384.55
+                },
+                {
+                  "x": 210.5,
+                  "y": 384.55
+                }
+              ],
+              "area": 2155.13,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "LLC"
+            },
+            {
+              "id": "shp_5cc5cbd0",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 498.07,
+                "y0": 355.87,
+                "x1": 630.69,
+                "y1": 384.55,
+                "width": 132.62,
+                "height": 28.68
+              },
+              "center": {
+                "x": 564.38,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 498.07,
+                  "y": 355.87
+                },
+                {
+                  "x": 630.69,
+                  "y": 355.87
+                },
+                {
+                  "x": 630.69,
+                  "y": 384.55
+                },
+                {
+                  "x": 498.07,
+                  "y": 384.55
+                }
+              ],
+              "area": 3803.65,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Veryinter Corp Departments Domestic HQ"
+            },
+            {
+              "id": "shp_1be51b59",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 720.58,
+                "y0": 355.87,
+                "x1": 795.72,
+                "y1": 384.55,
+                "width": 75.14,
+                "height": 28.68
+              },
+              "center": {
+                "x": 758.15,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 720.58,
+                  "y": 355.87
+                },
+                {
+                  "x": 795.72,
+                  "y": 355.87
+                },
+                {
+                  "x": 795.72,
+                  "y": 384.55
+                },
+                {
+                  "x": 720.58,
+                  "y": 384.55
+                }
+              ],
+              "area": 2155.13,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "LLC"
+            },
+            {
+              "id": "shp_ee7e4e13",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 558.67,
+                "y0": 398.71,
+                "x1": 690.69,
+                "y1": 427.39,
+                "width": 132.02,
+                "height": 28.68
+              },
+              "center": {
+                "x": 624.68,
+                "y": 413.05
+              },
+              "vertices": [
+                {
+                  "x": 558.67,
+                  "y": 398.71
+                },
+                {
+                  "x": 690.69,
+                  "y": 398.71
+                },
+                {
+                  "x": 690.69,
+                  "y": 427.39
+                },
+                {
+                  "x": 558.67,
+                  "y": 427.39
+                }
+              ],
+              "area": 3786.45,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Rosalie Flynn Marketing Manager"
+            },
+            {
+              "id": "shp_36cf7daf",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 270.53,
+                "y0": 398.71,
+                "x1": 345.65,
+                "y1": 427.39,
+                "width": 75.12,
+                "height": 28.68
+              },
+              "center": {
+                "x": 308.09,
+                "y": 413.05
+              },
+              "vertices": [
+                {
+                  "x": 270.53,
+                  "y": 398.71
+                },
+                {
+                  "x": 345.65,
+                  "y": 398.71
+                },
+                {
+                  "x": 345.65,
+                  "y": 427.39
+                },
+                {
+                  "x": 270.53,
+                  "y": 427.39
+                }
+              ],
+              "area": 2154.44,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_47a64c51",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 120.5,
+                "y0": 170.19,
+                "x1": 208.92,
+                "y1": 198.89,
+                "width": 88.42,
+                "height": 28.7
+              },
+              "center": {
+                "x": 164.71,
+                "y": 184.54
+              },
+              "vertices": [
+                {
+                  "x": 120.5,
+                  "y": 170.19
+                },
+                {
+                  "x": 208.92,
+                  "y": 170.19
+                },
+                {
+                  "x": 208.92,
+                  "y": 198.89
+                },
+                {
+                  "x": 120.5,
+                  "y": 198.89
+                }
+              ],
+              "area": 2537.98,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Veryinter Corp Board Board"
+            },
+            {
+              "id": "shp_3a637485",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 405.53,
+                "y0": 298.73,
+                "x1": 435.65,
+                "y1": 327.43,
+                "width": 30.12,
+                "height": 28.7
+              },
+              "center": {
+                "x": 420.59,
+                "y": 313.08
+              },
+              "vertices": [
+                {
+                  "x": 405.53,
+                  "y": 298.73
+                },
+                {
+                  "x": 435.65,
+                  "y": 298.73
+                },
+                {
+                  "x": 435.65,
+                  "y": 327.43
+                },
+                {
+                  "x": 405.53,
+                  "y": 327.43
+                }
+              ],
+              "area": 864.56,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_22bc3773",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 60.48,
+                "y0": 84.5,
+                "x1": 146.53,
+                "y1": 113.18,
+                "width": 86.05,
+                "height": 28.68
+              },
+              "center": {
+                "x": 103.51,
+                "y": 98.84
+              },
+              "vertices": [
+                {
+                  "x": 60.48,
+                  "y": 84.5
+                },
+                {
+                  "x": 146.53,
+                  "y": 84.5
+                },
+                {
+                  "x": 146.53,
+                  "y": 113.18
+                },
+                {
+                  "x": 60.48,
+                  "y": 113.18
+                }
+              ],
+              "area": 2468.0,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Ryan Hunter Shareholder"
+            },
+            {
+              "id": "shp_8cae58a3",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 120.5,
+                "y0": 127.34,
+                "x1": 208.84,
+                "y1": 156.02,
+                "width": 88.34,
+                "height": 28.68
+              },
+              "center": {
+                "x": 164.67,
+                "y": 141.68
+              },
+              "vertices": [
+                {
+                  "x": 120.5,
+                  "y": 127.34
+                },
+                {
+                  "x": 208.84,
+                  "y": 127.34
+                },
+                {
+                  "x": 208.84,
+                  "y": 156.02
+                },
+                {
+                  "x": 120.5,
+                  "y": 156.02
+                }
+              ],
+              "area": 2533.65,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Marcus Wong Inspection"
+            },
+            {
+              "id": "shp_4583dc9e",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 120.5,
+                "y0": 213.05,
+                "x1": 209.38,
+                "y1": 241.73,
+                "width": 88.88,
+                "height": 28.68
+              },
+              "center": {
+                "x": 164.94,
+                "y": 227.39
+              },
+              "vertices": [
+                {
+                  "x": 120.5,
+                  "y": 213.05
+                },
+                {
+                  "x": 209.38,
+                  "y": 213.05
+                },
+                {
+                  "x": 209.38,
+                  "y": 241.73
+                },
+                {
+                  "x": 120.5,
+                  "y": 241.73
+                }
+              ],
+              "area": 2549.09,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Veryinter Corp Finance Centre Finance Centre"
+            },
+            {
+              "id": "shp_f08fd8c6",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 120.5,
+                "y0": 255.89,
+                "x1": 208.99,
+                "y1": 284.57,
+                "width": 88.49,
+                "height": 28.68
+              },
+              "center": {
+                "x": 164.74,
+                "y": 270.23
+              },
+              "vertices": [
+                {
+                  "x": 120.5,
+                  "y": 255.89
+                },
+                {
+                  "x": 208.99,
+                  "y": 255.89
+                },
+                {
+                  "x": 208.99,
+                  "y": 284.57
+                },
+                {
+                  "x": 120.5,
+                  "y": 284.57
+                }
+              ],
+              "area": 2537.89,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Veryinter Deputy Deputy GM/VP"
+            },
+            {
+              "id": "shp_8b18b53c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 120.5,
+                "y0": 355.87,
+                "x1": 207.38,
+                "y1": 384.55,
+                "width": 86.88,
+                "height": 28.68
+              },
+              "center": {
+                "x": 163.94,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 120.5,
+                  "y": 355.87
+                },
+                {
+                  "x": 207.38,
+                  "y": 355.87
+                },
+                {
+                  "x": 207.38,
+                  "y": 384.55
+                },
+                {
+                  "x": 120.5,
+                  "y": 384.55
+                }
+              ],
+              "area": 2491.72,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Allin Veryinter Direct Selling Company"
+            },
+            {
+              "id": "shp_921cd77d",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 285.53,
+                "y0": 355.87,
+                "x1": 371.72,
+                "y1": 384.55,
+                "width": 86.19,
+                "height": 28.68
+              },
+              "center": {
+                "x": 328.62,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 285.53,
+                  "y": 355.87
+                },
+                {
+                  "x": 371.72,
+                  "y": 355.87
+                },
+                {
+                  "x": 371.72,
+                  "y": 384.55
+                },
+                {
+                  "x": 285.53,
+                  "y": 384.55
+                }
+              ],
+              "area": 2471.83,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Fields Veryinter Regional Company"
+            },
+            {
+              "id": "shp_8c49f4d5",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 465.55,
+                "y0": 355.87,
+                "x1": 495.67,
+                "y1": 384.55,
+                "width": 30.12,
+                "height": 28.68
+              },
+              "center": {
+                "x": 480.61,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 465.55,
+                  "y": 355.87
+                },
+                {
+                  "x": 495.67,
+                  "y": 355.87
+                },
+                {
+                  "x": 495.67,
+                  "y": 384.55
+                },
+                {
+                  "x": 465.55,
+                  "y": 384.55
+                }
+              ],
+              "area": 863.84,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_161e8018",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 630.58,
+                "y0": 355.87,
+                "x1": 716.76,
+                "y1": 384.55,
+                "width": 86.18,
+                "height": 28.68
+              },
+              "center": {
+                "x": 673.67,
+                "y": 370.21
+              },
+              "vertices": [
+                {
+                  "x": 630.58,
+                  "y": 355.87
+                },
+                {
+                  "x": 716.76,
+                  "y": 355.87
+                },
+                {
+                  "x": 716.76,
+                  "y": 384.55
+                },
+                {
+                  "x": 630.58,
+                  "y": 384.55
+                }
+              ],
+              "area": 2471.69,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Foundry Veryinter Oversea Company"
+            },
+            {
+              "id": "shp_6f259bed",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 345.53,
+                "y0": 398.71,
+                "x1": 432.2,
+                "y1": 427.39,
+                "width": 86.67,
+                "height": 28.68
+              },
+              "center": {
+                "x": 388.87,
+                "y": 413.05
+              },
+              "vertices": [
+                {
+                  "x": 345.53,
+                  "y": 398.71
+                },
+                {
+                  "x": 432.2,
+                  "y": 398.71
+                },
+                {
+                  "x": 432.2,
+                  "y": 427.39
+                },
+                {
+                  "x": 345.53,
+                  "y": 427.39
+                }
+              ],
+              "area": 2485.73,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Tom Ashley Regional Company Manager"
+            },
+            {
+              "id": "shp_d3a3313c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 690.58,
+                "y0": 398.71,
+                "x1": 720.7,
+                "y1": 427.39,
+                "width": 30.12,
+                "height": 28.68
+              },
+              "center": {
+                "x": 705.64,
+                "y": 413.05
+              },
+              "vertices": [
+                {
+                  "x": 690.58,
+                  "y": 398.71
+                },
+                {
+                  "x": 720.7,
+                  "y": 398.71
+                },
+                {
+                  "x": 720.7,
+                  "y": 427.39
+                },
+                {
+                  "x": 690.58,
+                  "y": 427.39
+                }
+              ],
+              "area": 863.84,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_0bca42cb",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 724.18,
+                "y0": 398.71,
+                "x1": 795.72,
+                "y1": 427.39,
+                "width": 71.54,
+                "height": 28.68
+              },
+              "center": {
+                "x": 759.95,
+                "y": 413.05
+              },
+              "vertices": [
+                {
+                  "x": 724.18,
+                  "y": 398.71
+                },
+                {
+                  "x": 795.72,
+                  "y": 398.71
+                },
+                {
+                  "x": 795.72,
+                  "y": 427.39
+                },
+                {
+                  "x": 724.18,
+                  "y": 427.39
+                }
+              ],
+              "area": 2051.88,
+              "fill_color": [
+                255,
+                255,
+                255
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": "Taya Fuentes Oversea Company Manager"
+            },
+            {
+              "id": "shp_d85bd4ac",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 92.66,
+                "y0": 27.3,
+                "x1": 344.94,
+                "y1": 62.49,
+                "width": 252.27,
+                "height": 35.19
+              },
+              "center": {
+                "x": 218.8,
+                "y": 44.9
+              },
+              "vertices": [
+                {
+                  "x": 92.66,
+                  "y": 27.3
+                },
+                {
+                  "x": 344.94,
+                  "y": 27.3
+                },
+                {
+                  "x": 344.94,
+                  "y": 62.49
+                },
+                {
+                  "x": 92.66,
+                  "y": 62.49
+                }
+              ],
+              "area": 8877.48,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "SOMEKA TEMPLATES\nCORPORATE ORGANIZATIONAL CHART"
+            },
+            {
+              "id": "shp_f7f23da8",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 482.52,
+                "y0": 31.42,
+                "x1": 551.39,
+                "y1": 50.9,
+                "width": 68.87,
+                "height": 19.49
+              },
+              "center": {
+                "x": 516.95,
+                "y": 41.16
+              },
+              "vertices": [
+                {
+                  "x": 482.52,
+                  "y": 31.42
+                },
+                {
+                  "x": 551.39,
+                  "y": 31.42
+                },
+                {
+                  "x": 551.39,
+                  "y": 50.9
+                },
+                {
+                  "x": 482.52,
+                  "y": 50.9
+                }
+              ],
+              "area": 1342.06,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "VISIT ORG CHART GENERATOR"
+            }
+          ],
+          "edges": [],
+          "charts": [
+            {
+              "chart_type": "bar_chart",
+              "bbox": {
+                "x0": 45.48,
+                "y0": 84.5,
+                "x1": 405.65,
+                "y1": 513.1,
+                "width": 360.17,
+                "height": 428.6
+              },
+              "data_points": [
+                {
+                  "index": 0,
+                  "value": 15.12,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 84.5,
+                    "x1": 60.6,
+                    "y1": 113.18,
+                    "width": 15.12,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 1,
+                  "value": 75.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 127.34,
+                    "x1": 120.62,
+                    "y1": 156.02,
+                    "width": 75.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 2,
+                  "value": 75.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 170.19,
+                    "x1": 120.62,
+                    "y1": 198.89,
+                    "width": 75.14,
+                    "height": 28.7
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 3,
+                  "value": 75.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 213.05,
+                    "x1": 120.62,
+                    "y1": 241.73,
+                    "width": 75.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 4,
+                  "value": 75.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 255.89,
+                    "x1": 120.62,
+                    "y1": 284.57,
+                    "width": 75.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 5,
+                  "value": 360.17,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 298.73,
+                    "x1": 405.65,
+                    "y1": 327.43,
+                    "width": 360.17,
+                    "height": 28.7
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 6,
+                  "value": 75.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 355.87,
+                    "x1": 120.62,
+                    "y1": 384.55,
+                    "width": 75.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 7,
+                  "value": 135.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 398.71,
+                    "x1": 180.62,
+                    "y1": 427.39,
+                    "width": 135.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 8,
+                  "value": 135.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 441.58,
+                    "x1": 180.62,
+                    "y1": 470.26,
+                    "width": 135.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 9,
+                  "value": 135.14,
+                  "bbox": {
+                    "x0": 45.48,
+                    "y0": 484.42,
+                    "x1": 180.62,
+                    "y1": 513.1,
+                    "width": 135.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                }
+              ]
+            },
+            {
+              "chart_type": "bar_chart",
+              "bbox": {
+                "x0": 525.55,
+                "y0": 398.71,
+                "x1": 612.05,
+                "y1": 555.94,
+                "width": 86.5,
+                "height": 157.23
+              },
+              "data_points": [
+                {
+                  "index": 0,
+                  "value": 30.12,
+                  "bbox": {
+                    "x0": 525.55,
+                    "y0": 398.71,
+                    "x1": 555.67,
+                    "y1": 427.39,
+                    "width": 30.12,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 1,
+                  "value": 86.5,
+                  "bbox": {
+                    "x0": 525.55,
+                    "y0": 441.58,
+                    "x1": 612.05,
+                    "y1": 470.26,
+                    "width": 86.5,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 2,
+                  "value": 30.12,
+                  "bbox": {
+                    "x0": 525.55,
+                    "y0": 484.42,
+                    "x1": 555.67,
+                    "y1": 513.1,
+                    "width": 30.12,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 3,
+                  "value": 30.12,
+                  "bbox": {
+                    "x0": 525.55,
+                    "y0": 527.26,
+                    "x1": 555.67,
+                    "y1": 555.94,
+                    "width": 30.12,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                }
+              ]
+            },
+            {
+              "chart_type": "bar_chart",
+              "bbox": {
+                "x0": 180.5,
+                "y0": 398.71,
+                "x1": 266.87,
+                "y1": 513.1,
+                "width": 86.37,
+                "height": 114.39
+              },
+              "data_points": [
+                {
+                  "index": 0,
+                  "value": 86.37,
+                  "bbox": {
+                    "x0": 180.5,
+                    "y0": 398.71,
+                    "x1": 266.87,
+                    "y1": 427.39,
+                    "width": 86.37,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 1,
+                  "value": 30.12,
+                  "bbox": {
+                    "x0": 180.5,
+                    "y0": 441.58,
+                    "x1": 210.62,
+                    "y1": 470.26,
+                    "width": 30.12,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                },
+                {
+                  "index": 2,
+                  "value": 86.14,
+                  "bbox": {
+                    "x0": 180.5,
+                    "y0": 484.42,
+                    "x1": 266.64,
+                    "y1": 513.1,
+                    "width": 86.14,
+                    "height": 28.68
+                  },
+                  "color": [
+                    255,
+                    255,
+                    255
+                  ]
+                }
+              ]
+            }
+          ],
+          "text_elements": []
+        }
+      ]
+    }
+  ]
+}

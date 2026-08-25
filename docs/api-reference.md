@@ -69,18 +69,6 @@ Extraction results for a single page.
 
 ---
 
-### `TextElement`
-
-A detected floating text block in the diagram (e.g. edge labels, chart titles, axis labels) that is not strictly contained inside any shape.
-
-| Field | Type | Description |
-|---|---|---|
-| `id` | `str` | Unique identifier (e.g., `"txt_a1b2c3d4"`) |
-| `text` | `str` | The extracted string content |
-| `bbox` | `BoundingBox` | Bounding box enclosing the text |
-
----
-
 ### `Diagram`
 
 A single diagram or graph detected on a page.
@@ -91,7 +79,7 @@ A single diagram or graph detected on a page.
 | `shapes` | `list[Shape]` | Shape nodes in this diagram |
 | `edges` | `list[Edge]` | Edges (connections) in this diagram |
 | `charts` | `list[ChartElement]` | Detected chart patterns |
-| `text_elements` | `list[TextElement]` | Floating text blocks associated with this diagram |
+| `text_elements` | `list[dict]` | Deprecated. See Virtual Text Nodes in `shapes` |
 
 ---
 
@@ -102,7 +90,7 @@ A detected geometric shape (node) in the diagram.
 | Field | Type | Description |
 |---|---|---|
 | `id` | `str` | Unique identifier (e.g., `"shp_a1b2c3d4"`) |
-| `shape_type` | `str` | One of: `"rectangle"`, `"circle"`, `"ellipse"`, `"diamond"`, `"triangle"`, `"polygon"`, `"unknown"` |
+| `shape_type` | `str` | One of: `"rectangle"`, `"circle"`, `"ellipse"`, `"diamond"`, `"triangle"`, `"polygon"`, `"text_block"`, `"unknown"` |
 | `bbox` | `BoundingBox` | Axis-aligned bounding box |
 | `center` | `Point` | Center point |
 | `vertices` | `list[Point]` | Ordered vertex list (for polygons) |
@@ -110,7 +98,7 @@ A detected geometric shape (node) in the diagram.
 | `fill_color` | `tuple[int,int,int] \| None` | RGB fill color (0–255), or `None` |
 | `stroke_color` | `tuple[int,int,int] \| None` | RGB stroke color (0–255), or `None` |
 | `stroke_width` | `float` | Stroke width in points |
-| `text` | `str \| None` | Native text physically located inside this shape |
+| `text` | `str \| None` | Native text physically located inside or absorbed into this shape |
 
 ---
 
@@ -229,14 +217,7 @@ A 2D point in PDF coordinate space.
               "stroke_width": 1.0
             }
           ],
-          "charts": [],
-          "text_elements": [
-            {
-              "id": "txt_t1t2t3t4",
-              "text": "Yes",
-              "bbox": { "x0": 160.0, "y0": 110.0, "x1": 180.0, "y1": 118.0, "width": 20.0, "height": 8.0 }
-            }
-          ]
+          "charts": []
         }
       ]
     }

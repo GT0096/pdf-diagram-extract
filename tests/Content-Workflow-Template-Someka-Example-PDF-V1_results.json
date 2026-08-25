@@ -1,0 +1,1882 @@
+{
+  "source_file": "Content-Workflow-Template-Someka-Example-PDF-V1.pdf",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 0,
+      "width": 841.92,
+      "height": 595.32,
+      "extraction_method": "vector",
+      "diagrams": [
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_22ca6c05",
+              "shape_type": "polygon",
+              "bbox": {
+                "x0": 478.4,
+                "y0": 106.71,
+                "x1": 757.18,
+                "y1": 245.13,
+                "width": 278.78,
+                "height": 138.42
+              },
+              "center": {
+                "x": 617.79,
+                "y": 175.92
+              },
+              "vertices": [
+                {
+                  "x": 478.4,
+                  "y": 245.13
+                },
+                {
+                  "x": 757.18,
+                  "y": 245.13
+                },
+                {
+                  "x": 757.18,
+                  "y": 106.71
+                },
+                {
+                  "x": 746.82,
+                  "y": 106.71
+                },
+                {
+                  "x": 746.82,
+                  "y": 107.06
+                },
+                {
+                  "x": 757.01,
+                  "y": 107.06
+                },
+                {
+                  "x": 756.83,
+                  "y": 106.88
+                },
+                {
+                  "x": 756.83,
+                  "y": 244.95
+                },
+                {
+                  "x": 757.01,
+                  "y": 244.78
+                },
+                {
+                  "x": 478.4,
+                  "y": 244.78
+                }
+              ],
+              "area": 38588.72,
+              "fill_color": [
+                48,
+                84,
+                150
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_71604e2a",
+              "edge_type": "line",
+              "start_point": {
+                "x": 696.21,
+                "y": 127.66
+              },
+              "end_point": {
+                "x": 696.21,
+                "y": 151.7
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_22ca6c05",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_2d4fa584",
+              "edge_type": "line",
+              "start_point": {
+                "x": 695.86,
+                "y": 151.7
+              },
+              "end_point": {
+                "x": 695.86,
+                "y": 127.66
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_22ca6c05",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "org_chart",
+          "shapes": [
+            {
+              "id": "shp_87f5ddee",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 251.29,
+                "y0": 155.2,
+                "x1": 345.89,
+                "y1": 196.61,
+                "width": 94.6,
+                "height": 41.41
+              },
+              "center": {
+                "x": 298.59,
+                "y": 175.9
+              },
+              "vertices": [
+                {
+                  "x": 251.29,
+                  "y": 155.2
+                },
+                {
+                  "x": 345.89,
+                  "y": 155.2
+                },
+                {
+                  "x": 345.89,
+                  "y": 196.61
+                },
+                {
+                  "x": 251.29,
+                  "y": 196.61
+                }
+              ],
+              "area": 3917.62,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Finalize content"
+            },
+            {
+              "id": "shp_dd7b362c",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 251.29,
+                "y0": 224.17,
+                "x1": 345.89,
+                "y1": 265.5,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 298.59,
+                "y": 244.84
+              },
+              "vertices": [
+                {
+                  "x": 251.29,
+                  "y": 224.17
+                },
+                {
+                  "x": 345.89,
+                  "y": 224.17
+                },
+                {
+                  "x": 345.89,
+                  "y": 265.5
+                },
+                {
+                  "x": 251.29,
+                  "y": 265.5
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Format content"
+            },
+            {
+              "id": "shp_66fd95e1",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 251.29,
+                "y0": 293.06,
+                "x1": 345.89,
+                "y1": 334.39,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 298.59,
+                "y": 313.73
+              },
+              "vertices": [
+                {
+                  "x": 251.29,
+                  "y": 293.06
+                },
+                {
+                  "x": 345.89,
+                  "y": 293.06
+                },
+                {
+                  "x": 345.89,
+                  "y": 334.39
+                },
+                {
+                  "x": 251.29,
+                  "y": 334.39
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Add visuals or media"
+            },
+            {
+              "id": "shp_79e11504",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 251.29,
+                "y0": 361.92,
+                "x1": 345.89,
+                "y1": 403.25,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 298.59,
+                "y": 382.59
+              },
+              "vertices": [
+                {
+                  "x": 251.29,
+                  "y": 361.92
+                },
+                {
+                  "x": 345.89,
+                  "y": 361.92
+                },
+                {
+                  "x": 345.89,
+                  "y": 403.25
+                },
+                {
+                  "x": 251.29,
+                  "y": 403.25
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Review and edit visuals/media"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_0e4485d8",
+              "edge_type": "line",
+              "start_point": {
+                "x": 298.78,
+                "y": 196.61
+              },
+              "end_point": {
+                "x": 298.78,
+                "y": 220.67
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_87f5ddee",
+              "target_shape_id": "shp_dd7b362c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_03c25e14",
+              "edge_type": "line",
+              "start_point": {
+                "x": 298.43,
+                "y": 220.67
+              },
+              "end_point": {
+                "x": 298.43,
+                "y": 196.61
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_dd7b362c",
+              "target_shape_id": "shp_87f5ddee",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_a219ce83",
+              "edge_type": "line",
+              "start_point": {
+                "x": 298.78,
+                "y": 265.5
+              },
+              "end_point": {
+                "x": 298.78,
+                "y": 289.56
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_dd7b362c",
+              "target_shape_id": "shp_66fd95e1",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f5169c1b",
+              "edge_type": "line",
+              "start_point": {
+                "x": 298.43,
+                "y": 289.56
+              },
+              "end_point": {
+                "x": 298.43,
+                "y": 265.5
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_66fd95e1",
+              "target_shape_id": "shp_dd7b362c",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_09d4a25d",
+              "edge_type": "line",
+              "start_point": {
+                "x": 298.78,
+                "y": 334.39
+              },
+              "end_point": {
+                "x": 298.78,
+                "y": 358.42
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_66fd95e1",
+              "target_shape_id": "shp_79e11504",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_f406ac78",
+              "edge_type": "line",
+              "start_point": {
+                "x": 298.43,
+                "y": 358.42
+              },
+              "end_point": {
+                "x": 298.43,
+                "y": 334.39
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_79e11504",
+              "target_shape_id": "shp_66fd95e1",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_41a2d88d",
+              "shape_type": "diamond",
+              "bbox": {
+                "x0": 383.8,
+                "y0": 155.2,
+                "x1": 478.4,
+                "y1": 196.61,
+                "width": 94.6,
+                "height": 41.41
+              },
+              "center": {
+                "x": 431.1,
+                "y": 175.91
+              },
+              "vertices": [
+                {
+                  "x": 383.8,
+                  "y": 175.91
+                },
+                {
+                  "x": 431.1,
+                  "y": 155.2
+                },
+                {
+                  "x": 478.4,
+                  "y": 175.91
+                },
+                {
+                  "x": 431.1,
+                  "y": 196.61
+                }
+              ],
+              "area": 3917.39,
+              "fill_color": [
+                0,
+                176,
+                80
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Obtain\nstakeholder\napproval"
+            },
+            {
+              "id": "shp_d3e583bf",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 383.8,
+                "y0": 224.17,
+                "x1": 478.4,
+                "y1": 265.5,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 431.1,
+                "y": 244.84
+              },
+              "vertices": [
+                {
+                  "x": 383.8,
+                  "y": 224.17
+                },
+                {
+                  "x": 478.4,
+                  "y": 224.17
+                },
+                {
+                  "x": 478.4,
+                  "y": 265.5
+                },
+                {
+                  "x": 383.8,
+                  "y": 265.5
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Make revisions based on feedback"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_1f3226c5",
+              "edge_type": "line",
+              "start_point": {
+                "x": 431.27,
+                "y": 196.61
+              },
+              "end_point": {
+                "x": 431.27,
+                "y": 220.67
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_41a2d88d",
+              "target_shape_id": "shp_d3e583bf",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_9e67acd8",
+              "edge_type": "line",
+              "start_point": {
+                "x": 430.92,
+                "y": 220.67
+              },
+              "end_point": {
+                "x": 430.92,
+                "y": 196.61
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_d3e583bf",
+              "target_shape_id": "shp_41a2d88d",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_d693b164",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 648.72,
+                "y0": 361.92,
+                "x1": 743.32,
+                "y1": 403.25,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 696.02,
+                "y": 382.59
+              },
+              "vertices": [
+                {
+                  "x": 648.72,
+                  "y": 361.92
+                },
+                {
+                  "x": 743.32,
+                  "y": 361.92
+                },
+                {
+                  "x": 743.32,
+                  "y": 403.25
+                },
+                {
+                  "x": 648.72,
+                  "y": 403.25
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Share content on social media"
+            },
+            {
+              "id": "shp_182ee706",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 648.72,
+                "y0": 430.81,
+                "x1": 743.32,
+                "y1": 472.14,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 696.02,
+                "y": 451.48
+              },
+              "vertices": [
+                {
+                  "x": 648.72,
+                  "y": 430.81
+                },
+                {
+                  "x": 743.32,
+                  "y": 430.81
+                },
+                {
+                  "x": 743.32,
+                  "y": 472.14
+                },
+                {
+                  "x": 648.72,
+                  "y": 472.14
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Monitor engagement and analytics"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_510614e2",
+              "edge_type": "line",
+              "start_point": {
+                "x": 696.21,
+                "y": 403.25
+              },
+              "end_point": {
+                "x": 696.21,
+                "y": 427.31
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_d693b164",
+              "target_shape_id": "shp_182ee706",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_50003974",
+              "edge_type": "line",
+              "start_point": {
+                "x": 695.86,
+                "y": 427.31
+              },
+              "end_point": {
+                "x": 695.86,
+                "y": 403.25
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_182ee706",
+              "target_shape_id": "shp_d693b164",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_09129558",
+              "shape_type": "diamond",
+              "bbox": {
+                "x0": 516.29,
+                "y0": 361.92,
+                "x1": 610.83,
+                "y1": 403.25,
+                "width": 94.54,
+                "height": 41.33
+              },
+              "center": {
+                "x": 563.56,
+                "y": 382.59
+              },
+              "vertices": [
+                {
+                  "x": 516.29,
+                  "y": 382.59
+                },
+                {
+                  "x": 563.56,
+                  "y": 361.92
+                },
+                {
+                  "x": 610.83,
+                  "y": 382.59
+                },
+                {
+                  "x": 563.56,
+                  "y": 403.25
+                }
+              ],
+              "area": 3907.34,
+              "fill_color": [
+                0,
+                176,
+                80
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Publish\ncontent"
+            },
+            {
+              "id": "shp_d67ed458",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 516.29,
+                "y0": 293.06,
+                "x1": 610.83,
+                "y1": 334.39,
+                "width": 94.54,
+                "height": 41.33
+              },
+              "center": {
+                "x": 563.56,
+                "y": 313.73
+              },
+              "vertices": [
+                {
+                  "x": 516.29,
+                  "y": 293.06
+                },
+                {
+                  "x": 610.83,
+                  "y": 293.06
+                },
+                {
+                  "x": 610.83,
+                  "y": 334.39
+                },
+                {
+                  "x": 516.29,
+                  "y": 334.39
+                }
+              ],
+              "area": 3907.07,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Schedule content"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_f7ec4eaa",
+              "edge_type": "line",
+              "start_point": {
+                "x": 563.69,
+                "y": 361.92
+              },
+              "end_point": {
+                "x": 563.69,
+                "y": 337.89
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_09129558",
+              "target_shape_id": "shp_d67ed458",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_98ede9b6",
+              "edge_type": "line",
+              "start_point": {
+                "x": 563.34,
+                "y": 337.89
+              },
+              "end_point": {
+                "x": 563.34,
+                "y": 361.92
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_d67ed458",
+              "target_shape_id": "shp_09129558",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_891503b7",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 516.29,
+                "y0": 430.81,
+                "x1": 610.83,
+                "y1": 472.14,
+                "width": 94.54,
+                "height": 41.33
+              },
+              "center": {
+                "x": 563.56,
+                "y": 451.48
+              },
+              "vertices": [
+                {
+                  "x": 516.29,
+                  "y": 430.81
+                },
+                {
+                  "x": 610.83,
+                  "y": 430.81
+                },
+                {
+                  "x": 610.83,
+                  "y": 472.14
+                },
+                {
+                  "x": 516.29,
+                  "y": 472.14
+                }
+              ],
+              "area": 3907.07,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Analyze content\nperformance"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_c60cd3b7",
+              "edge_type": "line",
+              "start_point": {
+                "x": 563.69,
+                "y": 472.14
+              },
+              "end_point": {
+                "x": 563.69,
+                "y": 496.2
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_891503b7",
+              "target_shape_id": null,
+              "stroke_color": null,
+              "stroke_width": 1.0
+            },
+            {
+              "id": "edg_cc7f853c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 563.34,
+                "y": 496.2
+              },
+              "end_point": {
+                "x": 563.34,
+                "y": 472.14
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_891503b7",
+              "stroke_color": null,
+              "stroke_width": 1.0
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_1cbed764",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 142.18,
+                "y0": 99.13,
+                "x1": 190.18,
+                "y1": 116.27,
+                "width": 48.0,
+                "height": 17.14
+              },
+              "center": {
+                "x": 166.18,
+                "y": 107.7
+              },
+              "vertices": [
+                {
+                  "x": 142.18,
+                  "y": 99.13
+                },
+                {
+                  "x": 190.18,
+                  "y": 99.13
+                },
+                {
+                  "x": 190.18,
+                  "y": 116.27
+                },
+                {
+                  "x": 142.18,
+                  "y": 116.27
+                }
+              ],
+              "area": 822.6,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "Gather content requirements"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_4d42ce06",
+              "edge_type": "line",
+              "start_point": {
+                "x": 134.07,
+                "y": 86.33
+              },
+              "end_point": {
+                "x": 198.19,
+                "y": 86.33
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_05dcb51c",
+              "edge_type": "line",
+              "start_point": {
+                "x": 198.19,
+                "y": 127.66
+              },
+              "end_point": {
+                "x": 134.07,
+                "y": 127.66
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_1cbed764",
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_182c586d",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 198.19,
+                "y": 86.33
+              },
+              "end_point": {
+                "x": 213.4,
+                "y": 107.0
+              },
+              "waypoints": [
+                {
+                  "x": 206.59,
+                  "y": 86.33
+                },
+                {
+                  "x": 213.4,
+                  "y": 95.59
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_eb72597e",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 213.4,
+                "y": 107.0
+              },
+              "end_point": {
+                "x": 198.19,
+                "y": 127.66
+              },
+              "waypoints": [
+                {
+                  "x": 213.4,
+                  "y": 118.41
+                },
+                {
+                  "x": 206.59,
+                  "y": 127.66
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_1cbed764",
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_72304313",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 134.07,
+                "y": 127.66
+              },
+              "end_point": {
+                "x": 118.86,
+                "y": 107.0
+              },
+              "waypoints": [
+                {
+                  "x": 125.67,
+                  "y": 127.66
+                },
+                {
+                  "x": 118.86,
+                  "y": 118.41
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_1cbed764",
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_28343fb8",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 118.86,
+                "y": 107.0
+              },
+              "end_point": {
+                "x": 134.07,
+                "y": 86.33
+              },
+              "waypoints": [
+                {
+                  "x": 118.86,
+                  "y": 95.59
+                },
+                {
+                  "x": 125.67,
+                  "y": 86.33
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_8fdec057",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 523.46,
+                "y0": 517.4,
+                "x1": 603.58,
+                "y1": 525.13,
+                "width": 80.12,
+                "height": 7.73
+              },
+              "center": {
+                "x": 563.52,
+                "y": 521.27
+              },
+              "vertices": [
+                {
+                  "x": 523.46,
+                  "y": 517.4
+                },
+                {
+                  "x": 603.58,
+                  "y": 517.4
+                },
+                {
+                  "x": 603.58,
+                  "y": 525.13
+                },
+                {
+                  "x": 523.46,
+                  "y": 525.13
+                }
+              ],
+              "area": 619.2,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "Evaluate content strategy"
+            }
+          ],
+          "edges": [
+            {
+              "id": "edg_a4f6cea3",
+              "edge_type": "line",
+              "start_point": {
+                "x": 531.5,
+                "y": 499.7
+              },
+              "end_point": {
+                "x": 595.62,
+                "y": 499.7
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_73407342",
+              "edge_type": "line",
+              "start_point": {
+                "x": 595.62,
+                "y": 541.28
+              },
+              "end_point": {
+                "x": 531.5,
+                "y": 541.28
+              },
+              "waypoints": [],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_ca989fef",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 595.62,
+                "y": 499.7
+              },
+              "end_point": {
+                "x": 610.83,
+                "y": 520.49
+              },
+              "waypoints": [
+                {
+                  "x": 604.02,
+                  "y": 499.7
+                },
+                {
+                  "x": 610.83,
+                  "y": 509.01
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_8fdec057",
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_7c988a8c",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 610.83,
+                "y": 520.49
+              },
+              "end_point": {
+                "x": 595.62,
+                "y": 541.28
+              },
+              "waypoints": [
+                {
+                  "x": 610.83,
+                  "y": 531.97
+                },
+                {
+                  "x": 604.02,
+                  "y": 541.28
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_8fdec057",
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_68266be9",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 531.5,
+                "y": 541.28
+              },
+              "end_point": {
+                "x": 516.29,
+                "y": 520.49
+              },
+              "waypoints": [
+                {
+                  "x": 523.1,
+                  "y": 541.28
+                },
+                {
+                  "x": 516.29,
+                  "y": 531.97
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": null,
+              "target_shape_id": "shp_8fdec057",
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            },
+            {
+              "id": "edg_d327fde8",
+              "edge_type": "curve",
+              "start_point": {
+                "x": 516.29,
+                "y": 520.49
+              },
+              "end_point": {
+                "x": 531.5,
+                "y": 499.7
+              },
+              "waypoints": [
+                {
+                  "x": 516.29,
+                  "y": 509.01
+                },
+                {
+                  "x": 523.1,
+                  "y": 499.7
+                }
+              ],
+              "has_arrowhead": false,
+              "direction": null,
+              "source_shape_id": "shp_8fdec057",
+              "target_shape_id": null,
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7
+            }
+          ],
+          "charts": [],
+          "text_elements": []
+        },
+        {
+          "diagram_type": "generic",
+          "shapes": [
+            {
+              "id": "shp_ca5d33e3",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 648.72,
+                "y0": 155.2,
+                "x1": 743.32,
+                "y1": 196.61,
+                "width": 94.6,
+                "height": 41.41
+              },
+              "center": {
+                "x": 696.02,
+                "y": 175.9
+              },
+              "vertices": [
+                {
+                  "x": 648.72,
+                  "y": 155.2
+                },
+                {
+                  "x": 743.32,
+                  "y": 155.2
+                },
+                {
+                  "x": 743.32,
+                  "y": 196.61
+                },
+                {
+                  "x": 648.72,
+                  "y": 196.61
+                }
+              ],
+              "area": 3917.62,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Conduct SEO analysis"
+            },
+            {
+              "id": "shp_1e397a91",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 516.29,
+                "y0": 155.2,
+                "x1": 610.83,
+                "y1": 196.61,
+                "width": 94.54,
+                "height": 41.41
+              },
+              "center": {
+                "x": 563.56,
+                "y": 175.9
+              },
+              "vertices": [
+                {
+                  "x": 516.29,
+                  "y": 155.2
+                },
+                {
+                  "x": 610.83,
+                  "y": 155.2
+                },
+                {
+                  "x": 610.83,
+                  "y": 196.61
+                },
+                {
+                  "x": 516.29,
+                  "y": 196.61
+                }
+              ],
+              "area": 3915.01,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Optimize content for SEO"
+            },
+            {
+              "id": "shp_4b73d191",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 383.8,
+                "y0": 86.33,
+                "x1": 478.4,
+                "y1": 127.66,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 431.1,
+                "y": 107.0
+              },
+              "vertices": [
+                {
+                  "x": 383.8,
+                  "y": 86.33
+                },
+                {
+                  "x": 478.4,
+                  "y": 86.33
+                },
+                {
+                  "x": 478.4,
+                  "y": 127.66
+                },
+                {
+                  "x": 383.8,
+                  "y": 127.66
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Create content outline"
+            },
+            {
+              "id": "shp_98fb6c85",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 648.72,
+                "y0": 86.33,
+                "x1": 743.32,
+                "y1": 127.66,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 696.02,
+                "y": 107.0
+              },
+              "vertices": [
+                {
+                  "x": 648.72,
+                  "y": 86.33
+                },
+                {
+                  "x": 743.32,
+                  "y": 86.33
+                },
+                {
+                  "x": 743.32,
+                  "y": 127.66
+                },
+                {
+                  "x": 648.72,
+                  "y": 127.66
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Review and edit content"
+            },
+            {
+              "id": "shp_b459334f",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 383.8,
+                "y0": 361.92,
+                "x1": 478.4,
+                "y1": 403.25,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 431.1,
+                "y": 382.59
+              },
+              "vertices": [
+                {
+                  "x": 383.8,
+                  "y": 361.92
+                },
+                {
+                  "x": 478.4,
+                  "y": 361.92
+                },
+                {
+                  "x": 478.4,
+                  "y": 403.25
+                },
+                {
+                  "x": 383.8,
+                  "y": 403.25
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Create metadata and tags"
+            },
+            {
+              "id": "shp_743535a6",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 251.29,
+                "y0": 86.33,
+                "x1": 345.89,
+                "y1": 127.66,
+                "width": 94.6,
+                "height": 41.33
+              },
+              "center": {
+                "x": 298.59,
+                "y": 107.0
+              },
+              "vertices": [
+                {
+                  "x": 251.29,
+                  "y": 86.33
+                },
+                {
+                  "x": 345.89,
+                  "y": 86.33
+                },
+                {
+                  "x": 345.89,
+                  "y": 127.66
+                },
+                {
+                  "x": 251.29,
+                  "y": 127.66
+                }
+              ],
+              "area": 3909.67,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Conduct topic research"
+            },
+            {
+              "id": "shp_8936cd44",
+              "shape_type": "rectangle",
+              "bbox": {
+                "x0": 516.29,
+                "y0": 86.33,
+                "x1": 610.83,
+                "y1": 127.66,
+                "width": 94.54,
+                "height": 41.33
+              },
+              "center": {
+                "x": 563.56,
+                "y": 107.0
+              },
+              "vertices": [
+                {
+                  "x": 516.29,
+                  "y": 86.33
+                },
+                {
+                  "x": 610.83,
+                  "y": 86.33
+                },
+                {
+                  "x": 610.83,
+                  "y": 127.66
+                },
+                {
+                  "x": 516.29,
+                  "y": 127.66
+                }
+              ],
+              "area": 3907.07,
+              "fill_color": [
+                95,
+                134,
+                205
+              ],
+              "stroke_color": [
+                47,
+                82,
+                143
+              ],
+              "stroke_width": 0.7,
+              "text": "Write first draft"
+            },
+            {
+              "id": "shp_98a30f48",
+              "shape_type": "polygon",
+              "bbox": {
+                "x0": 504.58,
+                "y0": 313.63,
+                "x1": 516.97,
+                "y1": 382.85,
+                "width": 12.39,
+                "height": 69.22
+              },
+              "center": {
+                "x": 510.77,
+                "y": 348.24
+              },
+              "vertices": [
+                {
+                  "x": 516.97,
+                  "y": 313.63
+                },
+                {
+                  "x": 504.58,
+                  "y": 313.63
+                },
+                {
+                  "x": 504.58,
+                  "y": 382.85
+                },
+                {
+                  "x": 512.79,
+                  "y": 382.85
+                },
+                {
+                  "x": 512.79,
+                  "y": 382.5
+                },
+                {
+                  "x": 504.75,
+                  "y": 382.5
+                },
+                {
+                  "x": 504.92,
+                  "y": 382.67
+                },
+                {
+                  "x": 504.92,
+                  "y": 313.81
+                },
+                {
+                  "x": 504.75,
+                  "y": 313.98
+                },
+                {
+                  "x": 516.97,
+                  "y": 313.98
+                }
+              ],
+              "area": 857.63,
+              "fill_color": [
+                48,
+                84,
+                150
+              ],
+              "stroke_color": null,
+              "stroke_width": 1.0,
+              "text": null
+            },
+            {
+              "id": "shp_87c373bd",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 119.54,
+                "y0": 26.04,
+                "x1": 224.33,
+                "y1": 51.15,
+                "width": 104.79,
+                "height": 25.11
+              },
+              "center": {
+                "x": 171.93,
+                "y": 38.59
+              },
+              "vertices": [
+                {
+                  "x": 119.54,
+                  "y": 26.04
+                },
+                {
+                  "x": 224.33,
+                  "y": 26.04
+                },
+                {
+                  "x": 224.33,
+                  "y": 51.15
+                },
+                {
+                  "x": 119.54,
+                  "y": 51.15
+                }
+              ],
+              "area": 2631.2,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "SOMEKA TEMPLATES\nCONTENT WORKFLOW"
+            },
+            {
+              "id": "shp_9d762c8d",
+              "shape_type": "text_block",
+              "bbox": {
+                "x0": 381.38,
+                "y0": 30.66,
+                "x1": 432.72,
+                "y1": 44.6,
+                "width": 51.34,
+                "height": 13.94
+              },
+              "center": {
+                "x": 407.05,
+                "y": 37.63
+              },
+              "vertices": [
+                {
+                  "x": 381.38,
+                  "y": 30.66
+                },
+                {
+                  "x": 432.72,
+                  "y": 30.66
+                },
+                {
+                  "x": 432.72,
+                  "y": 44.6
+                },
+                {
+                  "x": 381.38,
+                  "y": 44.6
+                }
+              ],
+              "area": 715.84,
+              "fill_color": null,
+              "stroke_color": null,
+              "stroke_width": 0,
+              "text": "VISIT FLOWCHART MAKER"
+            }
+          ],
+          "edges": [],
+          "charts": [],
+          "text_elements": []
+        }
+      ]
+    }
+  ]
+}
