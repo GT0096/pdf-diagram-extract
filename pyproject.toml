@@ -1,0 +1,51 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pdf-diagram-extract"
+version = "0.1.0"
+description = "Extract diagram and graph entities from PDFs as structured JSON — no LLM, pure code."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    { name = "Gaurav" },
+]
+keywords = ["pdf", "diagram", "graph", "extraction", "flowchart", "chart"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Image Recognition",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[project.urls]
+Homepage = "https://github.com/GT0096/pdf-diagram-extract"
+Documentation = "https://gt0096.github.io/pdf-diagram-extract/"
+Repository = "https://github.com/GT0096/pdf-diagram-extract"
+Issues = "https://github.com/GT0096/pdf-diagram-extract/issues"
+dependencies = [
+    "PyMuPDF>=1.24.0",
+    "opencv-python-headless>=4.8.0",
+    "numpy>=1.24.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "reportlab>=4.0",
+    "matplotlib>=3.7",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/diagramextract"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
