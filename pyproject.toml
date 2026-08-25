@@ -25,16 +25,17 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 
-[project.urls]
-Homepage = "https://github.com/GT0096/pdf-diagram-extract"
-Documentation = "https://gt0096.github.io/pdf-diagram-extract/"
-Repository = "https://github.com/GT0096/pdf-diagram-extract"
-Issues = "https://github.com/GT0096/pdf-diagram-extract/issues"
 dependencies = [
     "PyMuPDF>=1.24.0",
     "opencv-python-headless>=4.8.0",
     "numpy>=1.24.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/GT0096/pdf-diagram-extract"
+Documentation = "https://gt0096.github.io/pdf-diagram-extract/"
+Repository = "https://github.com/GT0096/pdf-diagram-extract"
+Issues = "https://github.com/GT0096/pdf-diagram-extract/issues"
 
 [project.optional-dependencies]
 dev = [
