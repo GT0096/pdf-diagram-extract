@@ -153,6 +153,10 @@ def _process_page(
 
     # Remove empty diagrams (shapes consumed by chart detection)
     diagrams = [d for d in diagrams if d.shapes or d.edges or d.charts]
+    
+    # Step 6: Extract and assign native text from the PDF page
+    from . import text_extractor
+    text_extractor.assign_text(page, diagrams)
 
     return PageResult(
         page_number=page_index,
