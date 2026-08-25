@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pdf-diagram-extract"
-version = "0.1.0"
-description = "Extract diagram and graph entities from PDFs as structured JSON — no LLM, pure code."
+version = "0.2.0"
+description = "Extract geometric entities, charts, and flowcharts from PDFs without OCR or LLMs."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
